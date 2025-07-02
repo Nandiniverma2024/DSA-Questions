@@ -25,6 +25,11 @@ class Solution {
         return result.toString();
     }
 }
+//TC and SC(BruteForce)
+⌛ Time Complexity: O(n)
+
+📦 Space Complexity: O(n) 
+
 
 // Optimal approach(Counter based Approach)
 class Solution {
@@ -48,3 +53,9 @@ class Solution {
         return result.toString();
     }
 }
+
+//TC and SC(Optimal)
+⌛ Time Complexity: O(n)
+
+📦 Space Complexity: O(1)
+ 
