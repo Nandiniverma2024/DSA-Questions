@@ -1,6 +1,6 @@
 import java.util.*;
 
-// BruteForce Approach(Stack based approach)
+// BruteForce Approach
 class Solution {
     public String removeOuterParentheses(String s) {
         Stack<Character> stack = new Stack<>();
