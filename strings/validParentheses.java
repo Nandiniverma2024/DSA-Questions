@@ -54,8 +54,7 @@ class Solution {
     }
 }
 
+
 //TC and SC(Optimal)
 ⌛ Time Complexity: O(n)
-
 📦 Space Complexity: O(1)
- 
