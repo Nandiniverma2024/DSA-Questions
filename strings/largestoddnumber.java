@@ -1,4 +1,4 @@
-import.java.util.*;
+import java.util.*;
 
 // BruteForce approach
 
@@ -15,3 +15,7 @@ class Solution {
         return result;
     }
 }
+
+
+// ⏱ Time Complexity: O(n²)
+// 📦 Space Complexity: O(n) (due to repeated substring creation)
