@@ -68,3 +68,7 @@ class Solution {
     }
 }
 
+
+✅ Optimal Approach:
+// Time: O(n) – each character processed max 3 times
+// Space: O(1) – in-place using char array, no extra space used
