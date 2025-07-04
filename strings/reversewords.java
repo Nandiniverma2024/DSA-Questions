@@ -14,3 +14,8 @@ class Solution {
         return reversed.toString();
     }
 }
+
+🧠 Time and Space Complexity:
+// ⏱ Time: O(n) — each character visited once (trim, split, reverse).
+
+// 📦 Space: O(n) — for storing split words and the result.
