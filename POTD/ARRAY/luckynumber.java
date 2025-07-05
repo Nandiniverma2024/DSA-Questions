@@ -43,4 +43,25 @@ class Solution {
 
 // tc -> O(n^2) , sc=O(n)
 
-// 
+// Optimal Approach
+class Solution {
+    public int findLucky(int[] arr) {
+        int result=-1;
+        HashMap<Integer, Integer> freq = new HashMap<>();
+        // Calculate Frequency
+        for(int num : arr){
+            freq.put(num, freq.getOrDefault(num, 0)+1);
+        }
+
+        // Check for the Lucky Number
+        for(int key : freq.keySet()){
+            int count = freq.get(key);
+            if(key == count){
+                result = Math.max(result, key);
+            }
+        }
+        return result;
+    }
+} 
+
+// tc -> O(n), sc -> O(n)
