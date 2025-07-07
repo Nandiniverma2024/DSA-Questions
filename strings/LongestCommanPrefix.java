@@ -4,6 +4,8 @@
 
 // If there is no common prefix, return an empty string "".
 
+import java.util.*;
+
 // BruteForce
 class Solution {
     public String longestCommonPrefix(String[] strs) {
