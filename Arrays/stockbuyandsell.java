@@ -35,3 +35,29 @@ class Solution {
 
 
 
+
+// Optimal Approach
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        int minPrice=Integer.MAX_VALUE; // Initializing with maximum value since we need to find minimum price
+        int profit=0, maxProfit=0;
+        for(int i=0; i<prices.length; i++){
+            // Minimum price seen so far
+            minPrice=Math.min(minPrice, prices[i]);
+            // calculate profit for every day(i.e we sell on the current day)
+            profit=prices[i]-minPrice;
+            // Now, check for the maximum profit
+            maxProfit=Math.max(profit, maxProfit);
+        }
+        return maxProfit;
+    }
+}
+
+
+
+// Time Complexity	    O(n)	
+// Space Complexity	O(1)
+
+
+
