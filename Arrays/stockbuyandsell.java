@@ -10,5 +10,25 @@ import java.util.*;
 
 
 // BruteForce Approach
+class Solution {
+    public int maxProfit(int[] prices) {
+        int profit=0, maxProfit=0;
+        // Loop through each day -> consider each day as a potential buy day
+        for(int i=0; i<prices.length; i++){
+            // Loop through all future days -> consider them as the potential sell day
+            for(int j=i+1; j<prices.length; j++){
+                profit = prices[j]-prices[i];
+                // Check profit for every j(or every future day)
+                maxProfit = Math.max(profit, maxProfit);
+            }
+        }
+        return maxProfit;
+    }
+}
+
+
+// Time	O(n²)
+// Space	O(1)
+
 
 
