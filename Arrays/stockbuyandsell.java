@@ -21,6 +21,9 @@ class Solution {
                 // Check profit for every j(or every future day)
                 maxProfit = Math.max(profit, maxProfit);
             }
+            // If check maxProfit after the completion of inner loop ,
+            // we are only able to check for last j, but we have to check for everyday
+            // that's why we checked this inside the inner loop
         }
         return maxProfit;
     }
