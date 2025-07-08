@@ -10,6 +10,33 @@
 // Return the modified array after rearranging the elements to satisfy the aforementioned conditions.
 
 
+import java.util.*;
+
+// BruteForce Approach
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+        int n=nums.length;
+        ArrayList<Integer> posList = new ArrayList<>();
+        ArrayList<Integer> negList = new ArrayList<>();
+        for(int i=0; i<n; i++){
+            if(nums[i]<0){
+                negList.add(nums[i]);
+            }else{
+                posList.add(nums[i]);
+            }
+        }
+        int result[] = new int[n];
+        int k=0;
+
+        // Alterantely +ve and -ve els 
+        for(int j=0; j<n/2; j++){
+            result[k++]=posList.get(j);
+            result[k++]=negList.get(j);
+        }
+        return result;
+    }
+}
 
 
-// 
+// Time Complexity	O(n)
+// Space Complexity	O(n)
