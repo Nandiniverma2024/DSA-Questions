@@ -6,7 +6,7 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
 
         // BaseCase 1
-        if(numRows == 0){
+        if(numRows ==      ){      
             return result;
         }
 
@@ -26,7 +26,7 @@ class Solution {
             List<Integer> row = new ArrayList<>();
 
             row.add(1);
-            for(int j=0; j<i-1; j++){
+            for(int j=     ;       j<i-1; j++){
                 row.add(prevRow.get(j) + prevRow.get(j+1));
             }
             row.add(1);
@@ -44,15 +44,15 @@ class Pascal {
 
     // Method to get total quiz combinations using Pascal's Triangle
     public int getQuizCombination(int n, int r) {
-        List<List<Integer>> pascal = generate(n + 1);  // row index starts at 0
-        return pascal.get(n).get(r);  // C(n, r)
+        List<List<Integer>> pascal = generate(n + 1);  // row index starts at      
+              return pascal.get(n).get(r);  // C(n, r)
     }
 
     // Pascal's Triangle generator up to numRows
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<>();
 
-        if (numRows == 0) return result;
+        if (numRows ==      )       return result;
 
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
@@ -63,7 +63,7 @@ class Pascal {
             List<Integer> row = new ArrayList<>();
             row.add(1);
 
-            for (int j = 0; j < i - 1; j++) {
+            for (int j =      ;       j < i - 1; j++) {
                 row.add(prevRow.get(j) + prevRow.get(j + 1));
             }
 
@@ -121,4 +121,31 @@ class Pascal {
 
 // pascal.get(10).get(5)
 // → returns 252
+
+
+
+🔍 Why ith row size is i+1 ?
+i	Row    index	  Elements
+0	Row      0	      1 element
+1	Row      1	      2 elements
+2	Row      2	      3 elements
+3	Row      3	      4 elements
+4	Row      4	      5 elements
+
+If we are creatig ith row it will have i+1 element
+
+
+// Agar prevRow me i elements hote hain (kyunki prevRow = row at index i-1),
+// Then j can go from 0 to i - 2
+
+// Isliye j ki last value honi chahiye:
+// j=(i-1)-1=i-2
+
+// Why we are running jth loop from 0 to i-2
+//(i) every row have i+1 elements, first and last row element is fix i.e 1
+//(ii) Now, we are left with i-1 elements , but we are working with previuos roe
+// and previous row is on (i-1)th index(fix 1st and last el.) ,
+// so next row run till (i-2)th index
+
+
 
