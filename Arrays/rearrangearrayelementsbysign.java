@@ -40,3 +40,29 @@ class Solution {
 
 // Time Complexity	O(n)
 // Space Complexity	O(n)
+
+
+
+// Optimal Appraoch
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+        int n=nums.length;
+        int result[] = new int[n];
+        int posIdx=0, negIdx=1;
+        for(int num : nums){
+            if(num>0){
+                result[posIdx]=num;
+                posIdx+=2;// Move to next even idx
+            }else{
+                result[negIdx]=num;
+                negIdx+=2;// Move to next odd idx
+            }
+        }
+        return result;
+    }
+}
+
+
+// Time Complexity	O(n)
+// Space Complexity	O(n)
+
