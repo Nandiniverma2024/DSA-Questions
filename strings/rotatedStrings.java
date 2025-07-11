@@ -68,3 +68,47 @@ class Solution {
 
 // Since this happens 'n' times,
 // Final Time Complexity            -> O(n) * O(n) = O(n²)
+
+// Space Complexity Note:
+    // - Java Strings are immutable → each rotation creates a new string
+    // - But only one 'rotated' string is stored at a time
+    // - No extra data structures are used
+    // ⇒ Therefore, total space used is O(n)
+
+
+// Time and space complexity
+tc -> O(n^2)
+sc -> O(n)
+
+
+// Optimal approach
+class Solution {
+    public boolean rotateString(String s, String goal) {
+        // If the lengths are not equal, 's' can never be rotated to become 'goal'
+        if(s.length() != goal.length()){
+            return false;
+        }
+        // Concatenating s -> covers all possible rotations
+        String doubled = s+s;
+
+        // 'goal' will definitely the substring of concatenated s string
+        if(doubled.contains(goal)){
+            return true;
+        }
+        return false;
+    }
+}
+
+
+// Time and Space complexity
+Time Complexity: O(n)
+
+// - Concatenating s + s → takes O(n)
+// - Checking if 'goal' is a substring using contains() → O(n)
+//   (Since the goal is of length n and doubled is of length 2n)
+// - Total = O(n + n) = O(n)
+
+🔹 Space Complexity: O(n)
+
+// - s + s creates a new string of length 2n → O(n)
+
