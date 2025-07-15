@@ -35,6 +35,50 @@ class Solution {
 // sc -> O(n) (since created two new arrays)
 
 
+// Better Approach(using HashMap)
+// convert s and t into character array, put s characters and
+// it's frequency count into hashmap, check if t characters 
+// present in hashmap, if yes decrease count
+// if get empty array that measn count is balanced, valid anagram
+
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        // if length are not equal, they can't be anagrams
+        if(s.length() != t.length()){
+            return false;
+        }
+        
+        HashMap<Character, Integer> map = new HashMap<>();
+        // convert strings into character array
+        char[] sArr = s.toCharArray();
+        char[] tArr = t.toCharArray();
+        // store frequency count of characters from string s
+        for(char c : sArr){
+            map.put(c,map.getOrDefault(c,0)+1);
+        }
+        // if t charactes are not present in map,then never be an anagram
+        for(char c : tArr){
+            if(!map.containsKey(c)){
+                return false;
+            }
+            // reduce character count of s if that character also present in t 
+            map.put(c,map.get(c)-1);
+
+            // If character count becomes 0, remove character from the map
+            if(map.get(c)==0){
+                map.remove(c);
+            }
+        }
+        // If map becomes empty that means all characters are matched , and it is an anagram
+        return map.isEmpty();
+    }
+}
+
+
+// Time Complexity -> 	    O(n)
+// Space Complexity ->  	O(1) 
+
+
 
 // Optimal Approach
 
