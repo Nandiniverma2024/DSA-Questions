@@ -143,9 +143,18 @@ If we are creatig ith row it will have i+1 element
 
 // Why we are running jth loop from 0 to i-2
 //(i) every row have i+1 elements, first and last row element is fix i.e 1
-//(ii) Now, we are left with i-1 elements , but we are working with previuos roe
+//(ii) Now, we are left with i-1 elements , but we are working with previuos row
 // and previous row is on (i-1)th index(fix 1st and last el.) ,
 // so next row run till (i-2)th index
+
+
+
+
+
+// every row have i+1 els. , first and last are  fixed one , 
+// we left with i-1 el.s but we need to work with prevrow, 
+// which is an (i-1)th row, cuase of prevrow , we left with
+// i-2 el.s , so jth loop runs from 0 to i-2
 
 
 
