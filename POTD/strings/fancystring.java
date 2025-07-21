@@ -20,6 +20,7 @@ class Solution {
             // check if last 3 elements are same
              int len = result.length();
             // check if last 3 elements are same
+            // since last character is n-1 , here n is len, that's why
             // len-1 ->last character (result.charAt(2) = 'a' )
             // len-2 ->Second Last Character (result.charAt(1) = 'a')
             // len-3 -> 3rd last character (result.charAt(0) = 'a')
