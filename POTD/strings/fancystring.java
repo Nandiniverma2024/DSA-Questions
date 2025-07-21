@@ -18,6 +18,11 @@ class Solution {
             // calculate result length
             int len = result.length();
             // check if last 3 elements are same
+             int len = result.length();
+            // check if last 3 elements are same
+            // len-1 ->last character (result.charAt(2) = 'a' )
+            // len-2 ->Second Last Character (result.charAt(1) = 'a')
+            // len-3 -> 3rd last character (result.charAt(0) = 'a')
             if(len>=3 && result.charAt(len-1)==result.charAt(len-2) && result.charAt(len-2) == result.charAt(len-3)){
                 // if yes then delete last character
                 result.deleteCharAt(len-1);
