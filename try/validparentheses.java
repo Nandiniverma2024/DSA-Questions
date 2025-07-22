@@ -7,6 +7,7 @@
 // Open brackets must be closed in the correct order.
 // Every close bracket has a corresponding open bracket of the same type.
  
+//Link : https://leetcode.com/problems/valid-parentheses/description/
 
 
 // Approach
@@ -26,10 +27,13 @@ class Solution {
                 stack.push(ch);// Store for matching later
             }else if(ch == ')' || ch == ']' || ch == '}'){
                 // Stack is empty means no matching opening bracket
+                // agr stack khali h , mltb koi opening bracket nhi h stack m , to invalid ho gya
                 if (stack.isEmpty()){
                     return false; //Invalid
                 }
                 // Pop the last opening bracket from stack
+                // ek ek krke sare opening brackets ko stack se bhar nikalnge,
+                // check krnge if they match with closing one's or not
                 char opening = stack.pop();
                  // Check if current closing bracket matches opening bracket
                  if((ch == ')' && opening != '(')||
