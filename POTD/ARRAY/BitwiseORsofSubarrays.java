@@ -45,3 +45,39 @@ class Solution {
 // TC -> O(n^2) (cause of two nested loops)
 // SC -> O(n^2) (in worst case all subaarays may have unique el.s (i.e  O(n^2) unique BitwiseOR values))
 
+
+// Optimal Approach -> need to find distinct Bitwise ORs of all subarrays.
+// Approach -> At each index, start a new subarray with num and extend all previous subarrays (curr) by OR'ing them with num to form next subarrays.
+// Add all OR results from next to the final result set (res) to keep track of unique OR values of all subarrays.
+
+// That's it. 
+// — curr holds ORs till previous index,
+// — next builds ORs for current index using curr.
+
+class Solution {
+    public int subarrayBitwiseORs(int[] arr) {
+        HashSet<Integer> res = new HashSet<>();  // Final result set
+        HashSet<Integer> curr = new HashSet<>(); // Current ORs set
+
+        for (int num : arr) {
+            HashSet<Integer> next = new HashSet<>();
+            next.add(num); // Start a new subarray with current element
+
+            for (int val : curr) {
+                next.add(val | num); // Extend previous subarrays by OR'ing with current element
+            }
+
+            curr = next; // Move to next state (current becomes next)
+            res.addAll(curr); // Add all current OR results to final result set
+        }
+
+        return res.size();
+    }
+}
+
+
+// Time: O(N * 30) (Because integers have max 30 bits OR combinations)
+// Space: O(N * 30)
+
+
+
