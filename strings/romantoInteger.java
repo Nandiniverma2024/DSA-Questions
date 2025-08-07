@@ -147,14 +147,9 @@ Adding 5 for V
 Output: 1994
 //////////////////////////////////////////////////////////
 
-Index | Char | currVal | nextVal | Action      | sum
--------------------------------------------------------
-  0   |  M   |   1000   |   100   | Adding      | 1000
-  1   |  C   |    100   |  1000   | Subtracting |  900
-  2   |  M   |   1000   |    10   | Adding      | 1900
-  3   |  X   |     10   |   100   | Subtracting | 1890
-  4   |  C   |    100   |     1   | Adding      | 1990
-  5   |  I   |      1   |     5   | Subtracting | 1989
-  6   |  V   |      5   |     0   | Adding      | 1994
-Final Output: 1994
-
+// Real Dry Run
+'M' = 1000 → add → sum = 1000
+'C' = 100 < 'M' = 1000 → subtract → sum = 1000 - 100 = 900
+'M' = 1000 → add → sum = 1900
+'I' = 1 < 'V' = 5 → subtract → sum = 1900 - 1 = 1899
+'V' = 5 → add → sum = 1904
