@@ -4,52 +4,51 @@ import java.util.*;
 // BruteForce
 class Solution {
     public String frequencySort(String s) {
-        StringBuilder result = new StringBuilder();
-        boolean[] used = new boolean[s.length()];
-
-        while (result.length() < s.length()) {
-            char maxChar = 0;
-            int maxFreq = 0;
-
-            // Count frequency of each unused character
-            for (int i = 0; i < s.length(); i++) {
-                if (used[i]) continue;
-                char c = s.charAt(i);
-                int count = 0;
-
-                for (int j = 0; j < s.length(); j++) {
-                    if (!used[j] && s.charAt(j) == c) {
-                        count++;
-                    }
-                }
-
-                if (count > maxFreq) {
-                    maxFreq = count;
-                    maxChar = c;
-                }
-            }
-
-            // Append the maxChar maxFreq times
-            for (int i = 0; i < maxFreq; i++) {
-                result.append(maxChar);
-            }
-
-            // Mark all occurrences of maxChar as used
-            for (int i = 0; i < s.length(); i++) {
-                if (s.charAt(i) == maxChar) {
-                    used[i] = true;
-                }
-            }
+        HashMap<Character, Integer> map = new HashMap<>();
+        for(int i=0; i<s.length(); i++){
+            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
         }
+        StringBuilder sb = new StringBuilder();
 
-        return result.toString();
+        while(!map.isEmpty()){
+            char maxChar = ' ';
+            int maxFreq = 0;
+            for(char c : map.keySet()){
+                int freq = map.get(c);
+                if(freq>maxFreq){
+                    maxChar=c;
+                    maxFreq=freq;
+                }
+            }
+            for(int i=0; i<maxFreq; i++){
+                sb.append(maxChar);
+            }
+            map.remove(maxChar);
+        }
+        return sb.toString(); 
     }
 }
 
 
 
-// Time Complexity	    ❌ O(n²)
-// Space Complexity	✅ O(n)
+// WHY NOT TLE => Limited character set, matlab k (distinct chars) ki 
+// upper bound ≈ 26 (lowercase), ya max 128 (extended ASCII).
+
+// worst case me bhi k^2 = 26^2 = 676 comparisons hi lagte hain — 
+// ye negligible hai compared to n
+
+
+// Time Complexity  , Total TC = O(n + k^2)
+// O(n) → map banane ke liye
+// O(k^2) -> max nikalne ke lia saare chars traverse hote h
+// O(n) -> String append ke liye
+
+
+
+// Space Complexity	, Total SC = O(n + k)
+// O(k) → HashMap me freq store karne ke lia
+// O(n) → StringBuilder result store karne ke lia
+
 
 
 // Optimal Solution
