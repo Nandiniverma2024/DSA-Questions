@@ -61,9 +61,9 @@ Output
 // IV → 1 < 5 → So 5 - 1 = 4
 // IX → 10 - 1 = 9
 
-// Point 1 -> direct sari values ka sum nhi kr sakte, agar prev val, curr val se choti h to subtract it from cyurrent val
+// Point 1 -> direct sari values ka sum nhi kr sakte, agar prev val, curr val se choti h to subtract it from current val
 
-// Point 2 -> in java code execute line by line,to nextVal ki value phele calculate nhi kr sakte 
+// Point 2 -> in java code execute line by line,to nextVal ki value phele calculate nhi kr sakte
 
 
 class Solution {
@@ -108,17 +108,17 @@ class Solution {
 class Solution {
     public int romanToInt(String s) {
         int sum=0;
-        Map<Character, Integer> romanMap = new HashMap<>();
-        romanMap.put('I', 1);
-        romanMap.put('V', 5);
-        romanMap.put('X', 10);
-        romanMap.put('L', 50);
-        romanMap.put('C', 100);
-        romanMap.put('D', 500);
-        romanMap.put('M', 1000);
+        Map<Character, Integer> map = new HashMap<>();
+        map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
         for(int i=0; i<s.length(); i++){
-            int currVal = romanMap.get(s.charAt(i));
-            if(i+1<s.length() && currVal<romanMap.get(s.charAt(i+1))){
+            int currVal = map.get(s.charAt(i));
+            if(i+1<s.length() && currVal<map.get(s.charAt(i+1))){
                 sum-=currVal;
             }else{
                 sum+=currVal;
