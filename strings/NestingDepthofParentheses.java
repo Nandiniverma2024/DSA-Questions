@@ -13,6 +13,55 @@
 
 
 
+// BruteFroce Approach
+class Solution {
+    public int maxDepth(String s) {
+        int n = s.length();
+        int maxDepth = 0;
+
+        // check all substrings
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                String sub = s.substring(i, j + 1);
+                if (isValid(sub)) { // check validity
+                    maxDepth = Math.max(maxDepth, calculateDepth(sub));
+                }
+            }
+        }
+        return maxDepth;
+    }
+
+    // function to check valid parentheses string
+    private boolean isValid(String str) {
+        int balance = 0;
+        for (char c : str.toCharArray()) {
+            if (c == '(') balance++;
+            else if (c == ')') balance--;
+            if (balance < 0) return false; // invalid
+        }
+        return balance == 0;
+    }
+
+    // function to calculate depth
+    private int calculateDepth(String str) {
+        int counter = 0, maxCounter = 0;
+        for (char c : str.toCharArray()) {
+            if (c == '(') {
+                counter++;
+                maxCounter = Math.max(maxCounter, counter);
+            } else if (c == ')') {
+                counter--;
+            }
+        }
+        return maxCounter;
+    }
+}
+
+// TC -> O(n^2)
+// Sc -> O(1)
+
+
+
 // Better Approach -> using Stack
 class Solution {
     public int maxDepth(String s) {
