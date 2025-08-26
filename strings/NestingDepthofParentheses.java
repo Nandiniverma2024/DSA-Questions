@@ -57,8 +57,11 @@ class Solution {
     }
 }
 
-// TC -> O(n^2)
-// Sc -> O(1)
+// ✔ Time Complexity (TC) → O(n^3)
+// Substrings generate karna → O(n^2)
+// Har substring ke liye validity + depth check → O(n)
+
+// ✔ Space Complexity (SC) → O(1)
 
 
 
