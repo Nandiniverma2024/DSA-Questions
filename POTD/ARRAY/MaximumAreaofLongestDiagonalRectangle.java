@@ -50,25 +50,23 @@ class Solution {
 // Optimal Appraoch , TC=(n), SC=O(1)
 class Solution {
     public int areaOfMaxDiagonal(int[][] dimensions) {
-        long maxDiagonal=0;
-        int maxArea=0;
+        int maxDiagonal=0, maxArea=0;
         for(int i=0; i<dimensions.length; i++){
             int l = dimensions[i][0];
             int w = dimensions[i][1];
-            long diagonal = (long)l*l + (long)w*w;
-            int area = l*w;
-            // If rectangle has a larger diagonal
+            int diagonal=(int)l*l + (int)w*w;
+            int area=l*w;
+            // Find Rectangle with Largest Diagonal, return its Area
             if(diagonal>maxDiagonal){
-                maxDiagonal = diagonal;
+                maxDiagonal=diagonal;
                 maxArea=area;
-            // If this rectangle has same diagonal as current maximum diagonal
-            }else if(diagonal == maxDiagonal){
-                // Then pick the rectangle with larger area
+            // If Rectangle has the same Diagonal as maxDiagonal, then return Rectangle with max Area
+            }else if(diagonal==maxDiagonal){
+                // Pick Rectangle with maxArea
                 maxArea=Math.max(area, maxArea);
             }
         }
         return maxArea;
     }
 }
-
 
