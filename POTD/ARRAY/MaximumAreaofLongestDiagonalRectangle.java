@@ -54,11 +54,11 @@ class Solution {
         for(int i=0; i<dimensions.length; i++){
             int l = dimensions[i][0];
             int w = dimensions[i][1];
-            int diagonal=(int)l*l + (int)w*w;
+            int diagonal=l*l + w*w;
             int area=l*w;
             // Find Rectangle with Largest Diagonal, return its Area
             if(diagonal>maxDiagonal){
-                maxDiagonal=diagonal;
+                 maxDiagonal=diagonal;
                 maxArea=area;
             // If Rectangle has the same Diagonal as maxDiagonal, then return Rectangle with max Area
             }else if(diagonal==maxDiagonal){
