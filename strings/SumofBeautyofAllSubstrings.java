@@ -13,7 +13,15 @@
 
 // PATTERN FOR GENERATING SUBSTRINGS => substring enumeration pattern
 substring enumeration pattern => Fix start → expand end //(Not 2 pointer kuki usme dono pointer sat m move hote h)
-// enumeration meaning => list banana ya ginti karke batana
+
+
+//ENUMERATION
+enumeration meaning => list banana(ek fix set define krna) ya ginti karke batana
+// Example -> "India ke states enumerate karo" → iska matlab hoga ek ek karke list banana (Uttar Pradesh, Haryana, uttarakhand, …).
+Example => enum Day {
+                MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+            }
+
 
 
 
