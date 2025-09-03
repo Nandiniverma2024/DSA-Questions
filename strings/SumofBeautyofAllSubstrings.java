@@ -72,4 +72,13 @@ class Solution {
 
 
 
+Edge Cases:
+1. Empty string → 0
+2. Single char (e.g. "a") → 0
+3. All same chars (e.g. "aaa") → 0
+4. All distinct chars (e.g. "abc") → 0
+5. Mixed freq → non-zero beauty (e.g. "aabcb")
+6. Large input (~5000 chars) → TLE risk
+
+
 
