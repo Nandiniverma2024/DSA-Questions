@@ -13,7 +13,7 @@
 
 // PATTERN FOR GENERATING SUBSTRINGS => substring enumeration pattern
 substring enumeration pattern => Fix start → expand end //(Not 2 pointer kuki usme dono pointer sat m move hote h)
-
+// enumeration meaning => list banana ya ginti karke batana
 
 
 
