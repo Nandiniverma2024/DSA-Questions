@@ -26,7 +26,7 @@ n>0 -> continue;
 while(16%4==0) -> true , n-> n/4 => 16/4 = 4;
 while(4%4==0) -> true , n-> n/4 => 4/4 = 1;
 while(1%4==0) -> false , exit loop;
-Here, n reduce to 1(since it's the power of 4)
+Here, n reduce to 1(since it is the power of 4)
 if(n!=1) -> return false nut here, n==1, => return true
 
 
