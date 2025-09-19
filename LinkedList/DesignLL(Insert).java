@@ -36,29 +36,25 @@
 
 // Code
 class MyLinkedList {
-
-    // Initialize global head and size
+    // Globally define size and head
     private int size;
     private Node head;
 
-    // Create private node function
     class Node{
         int val;
         Node next;
-        Node (int val){
+        Node(int val){
             this.val=val;
-            this.next=null;
+            this.next=null;//initially linked list is null
         }
     }
-
     public MyLinkedList() {
-        // Initially LL size is 0
         head=null;
-        size=0;
+        size=0; // Initially linked list is empty
     }
     
     public int get(int index) {
-        if(index<0 || index>=size){
+        if(index<0 || index>=size){ //if index=size , then it will go out of buond,eg-> size=3 , index=0,1,2 , =>3 hote hi out of bound ho jayga, kuki 3 el h na ki 4
             return -1;
         }
         Node currentNode=head;
@@ -69,23 +65,19 @@ class MyLinkedList {
     }
     
     public void addAtHead(int val) {
-        Node newNode = new Node(val);
-        if(head==null){
-            head=newNode;
-        }else{
-            newNode.next=head;
-            head=newNode;
-        }
+        Node newNode=new Node(val);
+        newNode.next=head;
+        head=newNode;
         size++;
     }
     
     public void addAtTail(int val) {
-        Node newNode = new Node(val);
+        Node newNode=new Node(val);
         if(head==null){
             head=newNode;
         }else{
-            Node currentNode=head;//currentNode and head both points to same node
-            while(currentNode.next!=null){
+            Node currentNode=head;
+            while(currentNode.next != null){
                 currentNode=currentNode.next;
             }
             currentNode.next=newNode;
@@ -98,16 +90,19 @@ class MyLinkedList {
             return;
         }
         if(index==0){
-            addAtHead(val);
+            addAtHead(val);//agar koi node nhi h , to add newNode
             return;
         }
-        Node newNode = new Node(val);
+        Node newNode=new Node(val);
         Node currentNode=head;
         for(int i=0; i<index-1; i++){
             currentNode=currentNode.next;
         }
+        // 1. Build connection of newNode and node present at index+1
+        // 2. Build connection with index-1 node with newNode
         newNode.next=currentNode.next;
         currentNode.next=newNode;
+        
         size++;
     }
     
@@ -116,9 +111,9 @@ class MyLinkedList {
             return;
         }
         if(index==0){
-            head=head.next;
+            head=head.next;//if only 1 node present(mltb index 0 pr present hoga vo node) , then delete that single node
         }else{
-            Node currentNode=head;//head and currentNode points to same node
+            Node currentNode=head;
             for(int i=0; i<index-1; i++){
                 currentNode=currentNode.next;
             }
@@ -138,4 +133,4 @@ class MyLinkedList {
  * obj.deleteAtIndex(index);
  */
 
- 
+
