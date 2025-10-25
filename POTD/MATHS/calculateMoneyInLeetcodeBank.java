@@ -79,6 +79,11 @@ class Solution {
 }
 
 
+// 👉 weeks ka value hamesha ab tak complete ho chuke full weeks batata hai.
+// To (1 + weeks) automatically batata hai next Monday kis value se start karega.
+
+
+
 // Time Complexity ->  O(n)	Loop runs roughly n/7 times (proportional to n)
 // Space Complexity ->	O(1)	Only constant extra space used
 
