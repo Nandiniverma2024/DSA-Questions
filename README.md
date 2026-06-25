@@ -59,12 +59,14 @@ Used in **quiz/study apps**, like:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
