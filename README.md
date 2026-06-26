@@ -60,6 +60,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0724-find-pivot-index) |
@@ -84,6 +85,7 @@ Used in **quiz/study apps**, like:
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -101,4 +103,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
