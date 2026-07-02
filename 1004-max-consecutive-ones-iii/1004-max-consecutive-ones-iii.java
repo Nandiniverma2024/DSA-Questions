@@ -11,16 +11,18 @@ class Solution {
             }
             if(zeros<=k){
                 maxLen=Math.max(maxLen, right-left+1);
-            
+                right++;
             // else if(zeros==k){
             //     maxLen=Math.max(maxLen, right-left+1);
             }else if(zeros>k){
-                if(nums[left]==0){
-                    zeros--;
+                while(zeros>k){
+                    if(nums[left]==0){
+                        zeros--;
+                    }
+                    left++;
                 }
-                left++;
+                right++;
             }
-            right++;
         }
         return maxLen;
     }
