@@ -48,6 +48,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -66,6 +67,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -182,4 +184,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
