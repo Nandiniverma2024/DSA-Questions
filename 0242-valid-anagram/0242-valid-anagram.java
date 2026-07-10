@@ -3,10 +3,20 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char sArr[]=s.toCharArray();
-        char tArr[]=t.toCharArray();
-        Arrays.sort(sArr);
-        Arrays.sort(tArr);
-        return Arrays.equals(sArr, tArr);
+        int freq[]=new int[26];
+        for(int i=0; i<s.length(); i++){
+            char ch1=s.charAt(i);
+            char ch2=t.charAt(i);
+            freq[ch1-'a']++; //freq increase by s char
+            freq[ch2-'a']--; //freq decrease by t char
+        }
+        // check if the final freq is 0 for all character
+        for(int i=0; i<freq.length; i++){
+            if(freq[i]!=0){
+                return false;
+            }
+        }
+
+        return true;
     }
 }
