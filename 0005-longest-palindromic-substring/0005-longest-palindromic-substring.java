@@ -16,6 +16,8 @@ class Solution {
             // Find length of longest palindrome
             if(currLen>maxLen){
                 maxLen=currLen;
+                // start is differnet for each palindrome
+                // start => mid - mid
                 start=i-(currLen-1)/2; //currLen-1 => give last index of curr palindrome
             }
         }
