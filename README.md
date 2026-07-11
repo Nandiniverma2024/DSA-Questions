@@ -59,6 +59,7 @@ Used in **quiz/study apps**, like:
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -108,6 +109,7 @@ Used in **quiz/study apps**, like:
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -146,6 +148,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
