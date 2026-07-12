@@ -1,42 +1,35 @@
 class Solution {
     public int myAtoi(String s) {
-        // 1.Whitespaces
-        s=s.trim();
-
-
-        // Edge case(if string length become zero)
-        if(s.length()<=0){
-            return 0;
+        int n=s.length();
+        int total=0, sign=1, index=0;
+        // 1. Check for leading spaces
+        while(index<n && s.charAt(index)==' '){
+            index++;
         }
-
-        int i=0;
-        // 2.Sign
-        // Let num is postive
-        int sign=1;
-
-        if(s.charAt(i)=='+'){
-            sign=1;
-            i++;
-        }else if(s.charAt(i)=='-'){
-            sign=-1;
-            i++;
-        }
-
-        long num=0;
-        // 3.conversion
-        while(i<s.length() && Character.isDigit(s.charAt(i))){
-            int ld=s.charAt(i)-'0'; //string ka character literal => integer literal
-            num=num*10+ld; //also handle leading zeros
-
-            // 4. rounding(round off)
-            if(sign*num > Integer.MAX_VALUE){
-                return Integer.MAX_VALUE;
-            }else if(sign*num < Integer.MIN_VALUE){
-                return Integer.MIN_VALUE;
+        // 2. Check for signed integers
+        if(index<n){
+            if(s.charAt(index)=='+'){
+                sign=1;//set sign to 1
+                index++;
+            }else if(s.charAt(index)=='-'){
+                sign=-1;
+                index++;
             }
-            i++;
         }
-
-        return (int)(num*sign);
+        // Convert String character digit into Integer charater digit
+        while(index<n){
+            char ch=s.charAt(index);
+            if(ch<'0' || ch>'9'){
+                break;
+            }
+            int digit=ch-'0';//convert character digit into integer digit
+            // 4. check for overflow condition
+            if(total>(Integer.MAX_VALUE-digit)/10){
+                return sign==1?Integer.MAX_VALUE : Integer.MIN_VALUE;
+            }
+            total=total*10+digit;
+            index++;
+        }
+        return total*sign;
     }
 }
