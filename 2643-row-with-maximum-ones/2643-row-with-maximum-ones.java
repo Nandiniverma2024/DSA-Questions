@@ -12,6 +12,8 @@ class Solution {
                     count++;
                 }
             }
+            // ye sirf 0th row ke lia chelaga, 
+            // 1st row ke lia tb chalega jb count>maxCount
             if(maxCount<count){
                 maxCount=count;
                 minRow=i;
