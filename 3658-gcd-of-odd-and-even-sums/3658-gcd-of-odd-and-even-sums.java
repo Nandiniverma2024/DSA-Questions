@@ -1,27 +1,22 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int evenSum=n*(n+1);
-        int oddSum=n*n;
-        return gcd(evenSum, oddSum);
-    }
-    public int gcd(int evenSum , int oddSum){
-        if(evenSum>oddSum){
-            evenSum = evenSum % oddSum;
-        }else{
-            oddSum = oddSum % evenSum;
-        }
 
-        if(evenSum==0){
-            return oddSum;
+        // Calculate odd and evenSum without formula
+        int evenSum = 0;
+        int oddSum = 0;
+
+        for (int i = 1; i <= n; i++) {
+            evenSum += 2 * i;
+            oddSum += 2 * i - 1;
         }
-        return evenSum;
+       
+        while(evenSum%oddSum != 0){
+            int rem=evenSum % oddSum;
+            evenSum=oddSum;
+            oddSum=rem;
+        }
+        return oddSum;
     }
 }
 
-// int count=0;
-        // while(count<=n){
-        //     if(n%2==0){
-        //         evensum+=n;
-        //         count++;
-        //     }
-        // }
+
