@@ -73,6 +73,7 @@ Used in **quiz/study apps**, like:
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ Used in **quiz/study apps**, like:
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +170,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
