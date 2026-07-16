@@ -91,6 +91,7 @@ Used in **quiz/study apps**, like:
 | [0930-binary-subarrays-with-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -229,6 +230,7 @@ Used in **quiz/study apps**, like:
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
