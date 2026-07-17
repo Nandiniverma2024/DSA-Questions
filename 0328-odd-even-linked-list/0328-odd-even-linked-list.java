@@ -17,6 +17,7 @@ class Solution {
         ListNode odd=head;
         ListNode even=head.next;
 
+        // Store starting node of even list
         ListNode evenHead=head.next; //jisse even ka head miss na ho jay
 
         while(even!=null && even.next!=null){
@@ -27,7 +28,11 @@ class Solution {
             even=even.next;
         }
        
+        // attach even list after odd list
         odd.next=evenHead;
+
+        // if we do odd.next=even.next => to ye 4 ko point krega
+        // but if we do odd.next=evenHead => to ye 2 ko point krega in example 1
 
         return head;
     }
