@@ -116,6 +116,7 @@ Used in **quiz/study apps**, like:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -228,6 +229,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -236,6 +238,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
