@@ -10,40 +10,35 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        // Edge Case
         if(head==null || head.next==null){
             return null;
         }
-        head=reverse(head);
-        if(n == 1){
-            head = head.next;
-            return reverse(head);
+        // nthNode => size-n+1 (from begining for 0 based indexing)
+        int prevNthNode=sizeLL(head)-n;
+
+        if(n==sizeLL(head)){
+            head=head.next;
         }
-        ListNode prev=head;
-        ListNode curr=head.next;
-        int idx=2;
-        while(curr!=null){
-            if(idx==n){
-                prev.next=curr.next;
-                break;
+        
+        ListNode temp=head;
+        int len=1;
+        while(temp!=null && temp.next!=null){
+            if(len==prevNthNode){
+                temp.next=temp.next.next;
             }
-            prev=curr;
-            curr=curr.next;
-            idx++;
+            len++;
+            temp=temp.next;
         }
-        head=reverse(head);
         return head;
     }
-    public ListNode reverse(ListNode head){
-        ListNode prev=null;
-        ListNode curr=head;
-        ListNode next=null;
-        while(curr!=null){
-            next=curr.next;
-
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+    public int sizeLL(ListNode head){
+        ListNode temp=head;
+        int count=0;
+        while(temp!=null){
+            count++;
+            temp=temp.next;
         }
-        return prev;
+        return count;
     }
 }
