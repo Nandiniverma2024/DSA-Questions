@@ -151,6 +151,7 @@ Used in **quiz/study apps**, like:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -239,6 +240,7 @@ Used in **quiz/study apps**, like:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -297,5 +299,6 @@ Used in **quiz/study apps**, like:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
