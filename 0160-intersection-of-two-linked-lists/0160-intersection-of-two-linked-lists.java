@@ -11,26 +11,44 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        int sizeA=sizeLL(headA);
+        int sizeB=sizeLL(headB);
+        int diff=Math.abs(sizeA-sizeB);
+
         ListNode pa=headA;
         ListNode pb=headB;
 
-        while(pa!=pb){
-            // agr pa khatam ho jay(end tak puch jay) to usa list "b" se chalana start kr do
-            if(pa==null){
-                pa=headB;
-            }else{
+        if(sizeA>sizeB){
+            while(sizeA>sizeB && diff>0){
                 pa=pa.next;
+                diff--;
             }
-            // agr pb khatam ho jay(end tak puch jay) to usa list "a" se chalana start kr do
-            if(pb==null){
-                pb=headA;
-            }else{
+        }else{
+            while(sizeB>sizeA && diff>0){
                 pb=pb.next;
+                diff--;
+            }
+        }
+        
+        while(pa!=null && pa!=null){
+            if(pa==pb){
+                return pa;
             }
 
-            
+            pa=pa.next;
+            pb=pb.next;
         }
 
-        return pa;
+        return null;
+    
+    }
+    public int sizeLL(ListNode head){
+        ListNode temp=head;
+        int count=0;
+        while(temp!=null){
+            count++;
+            temp=temp.next;
+        }
+        return count;
     }
 }
