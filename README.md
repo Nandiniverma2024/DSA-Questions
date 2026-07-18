@@ -160,6 +160,7 @@ Used in **quiz/study apps**, like:
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
