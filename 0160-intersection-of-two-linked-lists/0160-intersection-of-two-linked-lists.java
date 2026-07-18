@@ -30,7 +30,7 @@ public class Solution {
             }
         }
         
-        while(pa!=null && pa!=null){
+        while(pa!=null && pb!=null){
             if(pa==pb){
                 return pa;
             }
