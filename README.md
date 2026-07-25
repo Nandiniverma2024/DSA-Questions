@@ -171,6 +171,7 @@ Used in **quiz/study apps**, like:
 | [2469-convert-the-temperature](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -236,6 +237,7 @@ Used in **quiz/study apps**, like:
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
