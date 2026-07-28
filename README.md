@@ -171,6 +171,7 @@ Used in **quiz/study apps**, like:
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
@@ -292,6 +293,7 @@ Used in **quiz/study apps**, like:
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -305,6 +307,7 @@ Used in **quiz/study apps**, like:
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
