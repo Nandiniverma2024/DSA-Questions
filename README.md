@@ -169,6 +169,7 @@ Used in **quiz/study apps**, like:
 | [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -302,6 +303,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
