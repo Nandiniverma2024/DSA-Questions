@@ -7,8 +7,8 @@ class Solution {
         // Find exact hour i.e k with binary search
         // img array => 1 to 11
         while(start<=end){
-            int mid=start+(end-start)/2;
-            int hours=ganteGinfun(piles,mid);
+            int mid=start+(end-start)/2; //koko possible banana eating speed
+            int hours=ganteGinfun(piles,mid); 
             if(hours<=h){
                 ans=mid;
                 end=mid-1;
