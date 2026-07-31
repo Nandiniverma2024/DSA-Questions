@@ -1,31 +1,29 @@
 class Solution {
     public int minimumPushes(String word) {
-        HashMap<Character,Integer> map = new HashMap<>(); 
-        int totalPush=0, uniqueCharCnt=0;
+        int freq[]=new int[26];
+        char wordArr[]=word.toCharArray();
 
         for(int i=0; i<word.length(); i++){
-            char ch=word.charAt(i);
-            map.put(ch, map.getOrDefault(ch,0)+1);
+            char ch=wordArr[i];
+            freq[ch-'a']++;
         }
 
-        while(!map.isEmpty()){
-            // Reset maxChar and maxFreq in each iteration
-            char maxChar='\0';
-            int maxFreq=-1;
+        // This sort function sort array on basis of numerical values
+        // smallest numerical values comes at starting positions 
+        // and largest numerical values are go to last positions
+        Arrays.sort(freq);
 
-            for(char ch:map.keySet()){
-                int freq=map.get(ch);
-                if(freq>maxFreq){
-                    maxChar=ch;
-                    maxFreq=freq;
-                }
+        int totalPush=0;
+        int uniqueCharCnt=0;
+
+        for(int i=25; i>=0; i--){
+            if(freq[i]==0){
+                break;
             }
-
-            totalPush+=maxFreq*((uniqueCharCnt/8)+1);
+            totalPush+=freq[i]*((uniqueCharCnt/8) + 1);
             uniqueCharCnt++;
-
-            map.remove(maxChar);
         }
+
         return totalPush;
     }
 }
