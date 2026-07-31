@@ -21,20 +21,8 @@ class Solution {
                 }
             }
 
-            // Total 26 unique character
-            if(uniqueCharCnt<8){
-                totalPush+=maxFreq*1;
-                uniqueCharCnt++;
-            }else if(uniqueCharCnt>=8 && uniqueCharCnt<16){
-                totalPush+=maxFreq*2;
-                uniqueCharCnt++;
-            }else if(uniqueCharCnt>=16 && uniqueCharCnt<24){
-                totalPush+=maxFreq*3;
-                uniqueCharCnt++;
-            }else if(uniqueCharCnt>=24 && uniqueCharCnt<26){
-                totalPush+=maxFreq*4;
-                uniqueCharCnt++;
-            }
+            totalPush+=maxFreq*((uniqueCharCnt/8)+1);
+            uniqueCharCnt++;
 
             map.remove(maxChar);
         }
