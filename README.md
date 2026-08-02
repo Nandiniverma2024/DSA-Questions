@@ -86,6 +86,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
@@ -199,6 +200,7 @@ Used in **quiz/study apps**, like:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -321,6 +323,7 @@ Used in **quiz/study apps**, like:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
