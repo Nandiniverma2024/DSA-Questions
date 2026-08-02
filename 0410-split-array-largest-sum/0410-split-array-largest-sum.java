@@ -20,7 +20,7 @@ class Solution {
 
         while(start<=end){
             int mid=start+(end-start)/2;
-            // given condition ke acc, dono subarray ka sum mid wale sum se km h ya  nhi
+            // mltb hr subArr ko minimum or equal mid val assign krni hi krni h        
             if(isPossible(nums, mid, k)){
                 ans=mid; //possible sum
                 end=mid-1; //possible sum se bi chota sum exist kr sakta h left half m
@@ -41,8 +41,7 @@ class Solution {
                 sum=arr[i];
             }
 
-            // given subaaray ke count ka sum hi possible sum ki range m hona chahiye
-            // agr usse jyada subaaray aaye to return false
+            // possible subArr > given subArr in ques, to return false
             if(subArr>k){
                 return false;
             }
