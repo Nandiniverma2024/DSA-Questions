@@ -17,32 +17,39 @@ class Solution {
 
         int totalLen=n1+n2;
 
+        // Define range based on smallest array
         int start=0, end=smal.length;
 
         // px=> partition X, py=> partition Y
         while(start<=end){
+            // Mid for partition in smallest array
             int px=start+(end-start)/2;
+            // partition in largest array
             int py=(n1+n2+1)/2-px;
 
-            int maxLeftNums1=(px==0)?Integer.MIN_VALUE:smal[px-1];
-            int minRightNums1=px==smal.length?Integer.MAX_VALUE:smal[px];
-            int maxLeftNums2=py==0?Integer.MIN_VALUE:lar[py-1];
-            int minRightNums2=py==lar.length?Integer.MAX_VALUE:lar[py];
+            int l1= (px==0) ? Integer.MIN_VALUE : smal[px-1];
+            int r1= px==smal.length ? Integer.MAX_VALUE : smal[px];
+            int l2= py==0 ? Integer.MIN_VALUE : lar[py-1];
+            int r2= py==lar.length ? Integer.MAX_VALUE : lar[py];
 
-            if(maxLeftNums1 <= minRightNums2 && maxLeftNums2<=minRightNums1){
+
+            // All elements in left must bs smaller than all elements in right
+            if(l1 <= r2 && l2<=r1){
+                // check if merges array is odd or even
                 // Even
                 if(totalLen%2==0){
-                    return ((double)(Math.max(maxLeftNums1, maxLeftNums2)+Math.min(minRightNums1, minRightNums2))/2);
+                    return ((double)(Math.max(l1, l2)+Math.min(r1, r2))/2);
                 }else{
-                    return Math.max(maxLeftNums1, maxLeftNums2);
+                    return Math.max(l1, l2);
                 }
             }
             
 
-            if(maxLeftNums1>minRightNums2){
-                end=px-1;
+            // if l1>r2 
+            if(l1>r2){
+                end=px-1;      // eleminate right half
             }else{
-                start=px+1;
+                start=px+1;    // eleminate right half
             }
         }
         return 0;
