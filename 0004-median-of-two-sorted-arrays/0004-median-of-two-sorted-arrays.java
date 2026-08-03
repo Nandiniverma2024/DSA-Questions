@@ -45,7 +45,7 @@ class Solution {
             }
             
 
-            // if l1>r2 
+            // if l1 and l2 must be smallest then r2 and r1
             if(l1>r2){
                 end=px-1;      // eleminate right half
             }else if(l2>r1){  //see in terms of smallest array, r1 should be largest
