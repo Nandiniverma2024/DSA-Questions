@@ -9,8 +9,6 @@ class Solution {
         }
 
         
-
-
         int val=0, cnt=0;
         // Find number with in range
         for(int i=1; i<=large; i++){
@@ -23,5 +21,6 @@ class Solution {
             }
         }
         return large + (k - cnt);
+        // cnt => count tell kitne el gayab h start se
     }
 }
