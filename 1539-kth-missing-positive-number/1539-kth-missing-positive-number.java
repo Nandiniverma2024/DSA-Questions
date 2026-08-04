@@ -35,3 +35,12 @@ class Solution {
 // formula => arr[i]-(i+1)  => arr[mid]-(mid+1)
 // sare missing idx nikalne ki xarurat ni h
 // mid ke sath check krke nikalo if needed
+
+
+// formula derivation
+// arr[end] + more
+// arr[end] + k - missing    (more = k - missing)
+// arr[end] + k - (arr[end] - (end + 1))
+// arr[end] + k - arr[end] + end + 1
+// end + 1 + k
+// start + k
