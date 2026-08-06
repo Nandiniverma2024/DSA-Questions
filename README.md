@@ -197,6 +197,7 @@ Used in **quiz/study apps**, like:
 | [2469-convert-the-temperature](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -244,6 +245,7 @@ Used in **quiz/study apps**, like:
 | [1291-sequential-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
