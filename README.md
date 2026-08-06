@@ -184,6 +184,7 @@ Used in **quiz/study apps**, like:
 | [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -378,6 +379,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
