@@ -91,6 +91,7 @@ Used in **quiz/study apps**, like:
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -414,6 +415,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
