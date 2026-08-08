@@ -18,7 +18,7 @@ class Solution {
         li.add(nums[i]);
         solve(nums, i+1, li, ans);
         // Backtrack(remove last el)
-        li.remove(li.size()-1);
+        li.removeLast();
 
         // Choice 2 => not take any el
         solve(nums, i+1, li, ans);
