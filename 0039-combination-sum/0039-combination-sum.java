@@ -10,7 +10,7 @@ class Solution {
     public void solve(int candidates[], int target, int i, List<Integer> li, List<List<Integer>> ans){
         // Base Case
         if(i==candidates.length){
-            if(target==0){
+            if(target==0){ //agr target km hote hote 0 ho jata h
                 ans.add(new ArrayList<>(li));
             }
             return;
