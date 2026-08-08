@@ -93,6 +93,7 @@ Used in **quiz/study apps**, like:
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
@@ -392,6 +393,7 @@ Used in **quiz/study apps**, like:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Interactive
 |  |
@@ -410,6 +412,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
