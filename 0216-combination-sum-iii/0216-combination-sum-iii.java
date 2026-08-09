@@ -12,7 +12,7 @@ class Solution {
     public void solve(int arr[], int k, int target, int idx, List<Integer> li,List<List<Integer>> ans){
         // Base Case
         if(k==0 && target==0){
-            // sum=target=> meri ouput list m ek combination aa chuka 
+            // target=0, i.e  ouput list m ek combination aa chuka 
             ans.add(new ArrayList<>(li));
             return;
         }
@@ -22,9 +22,10 @@ class Solution {
                 break;
             }
            
-            li.add(arr[i]);
-            solve(arr, k-1, target-arr[i], i+1, li, ans);
-            li.remove(li.size()-1);
+      
+            li.add(arr[i]); //choice made
+            solve(arr, k-1, target-arr[i], i+1, li, ans); //choice exploration
+            li.remove(li.size()-1); //backtracking
         }
     }
 }
