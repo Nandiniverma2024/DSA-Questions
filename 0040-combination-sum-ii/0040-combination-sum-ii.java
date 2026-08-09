@@ -8,6 +8,8 @@ class Solution {
         return ans;
     }
     public void solve(int arr[], int target, int idx, List<Integer> li, List<List<Integer>> ans){
+        // idx=> for horixzontal call
+        // i => for vertical call
         // Base Case
         if(target==0){
             ans.add(new ArrayList<>(li));
