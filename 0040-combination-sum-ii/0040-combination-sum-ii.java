@@ -17,12 +17,15 @@ class Solution {
         }
 
         for(int i=idx; i<arr.length; i++){
+            // For generating unique combinations
             if(i>idx && arr[i]==arr[i-1]){
                 continue;
             }
+            // Optimization
             if(arr[i]>target){
                 break;
             }
+            // Kaam
             li.add(arr[i]);
             solve(arr, target-arr[i], i+1, li, ans);
             li.remove(li.size()-1);
