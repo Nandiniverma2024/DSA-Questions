@@ -55,6 +55,7 @@ Used in **quiz/study apps**, like:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -377,6 +378,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 ## Number Theory
@@ -426,6 +428,7 @@ Used in **quiz/study apps**, like:
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
