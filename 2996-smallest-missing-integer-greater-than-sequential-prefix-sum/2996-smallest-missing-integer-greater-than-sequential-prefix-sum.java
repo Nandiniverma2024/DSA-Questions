@@ -1,0 +1,27 @@
+class Solution {
+    public int missingInteger(int[] nums) {
+        int sum=nums[0];
+        for(int i=1; i<nums.length; i++){
+            if(nums[i-1]+1 == nums[i]){
+                sum+=nums[i];
+            }else{
+                break;
+            }
+        }
+
+        int x=sum;
+        while(contains(nums, x)){
+            x++;
+        }
+
+        return x;
+    }
+    public boolean contains(int nums[], int x){
+        for(int num : nums){
+            if(num==x){
+                return true;
+            }
+        }
+        return false;
+    }
+}
