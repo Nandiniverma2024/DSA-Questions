@@ -18,6 +18,7 @@ class Solution {
                 }
                 left++;
             }
+            // agr map ka size k ke barabar nhi h, to right++ krke k ke barabar kro
             right++;
         }
         return cnt;
