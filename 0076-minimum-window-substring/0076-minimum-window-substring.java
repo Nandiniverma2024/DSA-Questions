@@ -21,24 +21,24 @@ class Solution {
             char ch=s.charAt(right);
             if(tMap.containsKey(ch)){
                 tMap.put(ch, tMap.get(ch)-1); //reduce freq
-                if(tMap.get(ch)==0){
+                if(tMap.get(ch)==0){ // agr freq reduce hote hote 0 ho jay , reduce cnt
                     cnt--;
                 }
             }
 
-            while(cnt==0){
-                if(minLen > right-left+1){
+            while(cnt==0){ //sare char dono strings m match ho gye
+                if(minLen > right-left+1){ //find minLen and update start
                     minLen=right-left+1;
                     start=left;
                 }
                 char leftCh=s.charAt(left);
                 if(tMap.containsKey(leftCh)){
-                    tMap.put(leftCh, tMap.get(leftCh)+1);
-                    if(tMap.get(leftCh)>0){
+                    tMap.put(leftCh, tMap.get(leftCh)+1); //increase freq
+                    if(tMap.get(leftCh)>0){ //and also increase the cnt
                         cnt++;
                     }
                 }
-                left++; 
+                left++; // window valid h, shrink from left to get more smaller valid window
                 
             }
             right++;
