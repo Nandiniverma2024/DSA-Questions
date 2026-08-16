@@ -59,6 +59,7 @@ Used in **quiz/study apps**, like:
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0796-rotate-string) |
@@ -366,6 +367,7 @@ Used in **quiz/study apps**, like:
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
@@ -416,6 +418,7 @@ Used in **quiz/study apps**, like:
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 ## Number Theory
