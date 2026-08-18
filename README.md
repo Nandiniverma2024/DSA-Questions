@@ -153,6 +153,7 @@ Used in **quiz/study apps**, like:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3452-sum-of-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -235,6 +236,7 @@ Used in **quiz/study apps**, like:
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -284,6 +286,7 @@ Used in **quiz/study apps**, like:
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Used in **quiz/study apps**, like:
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -430,6 +434,7 @@ Used in **quiz/study apps**, like:
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
