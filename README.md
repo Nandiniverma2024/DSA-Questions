@@ -154,6 +154,7 @@ Used in **quiz/study apps**, like:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3452-sum-of-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3452-sum-of-good-numbers) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -196,6 +197,7 @@ Used in **quiz/study apps**, like:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
