@@ -1,6 +1,7 @@
 class Solution {
     public int longestContinuousSubstring(String s) {
         char charArr[]=s.toCharArray();
+        // cnt=1 => kuki single a,b,c bi valid substring h
         int cnt=1, maxCnt=1;
         int freqArr[]=new int[26];
         for(int i=1; i<charArr.length; i++){
