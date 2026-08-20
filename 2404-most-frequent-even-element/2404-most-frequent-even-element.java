@@ -16,17 +16,21 @@ class Solution {
                 maxFreq=freq;
             }
         }
-        int fc=Integer.MAX_VALUE; //frequent charac
+
+        // find frequent character
+        int frequentChar=Integer.MAX_VALUE; //frequent char 
         for(int key:map.keySet()){
-            if(map.get(key)==maxFreq){
-                if(key<fc){
-                    fc=key;
+            if(map.get(key)==maxFreq){ //jb 2 char ki freq, maxFreq ke equal h(eg=> 2, 4)
+                if(key<frequentChar){ //then find smallest one (i.e 2)
+                    frequentChar=key;
                 }
             }
         }
-        if(fc==Integer.MAX_VALUE){
+
+        if(frequentChar==Integer.MAX_VALUE){
             return -1;
         }
-        return fc;
+
+        return frequentChar;
     }
 }
