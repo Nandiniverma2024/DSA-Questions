@@ -65,6 +65,7 @@ Used in **quiz/study apps**, like:
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -195,6 +196,7 @@ Used in **quiz/study apps**, like:
 | [0930-binary-subarrays-with-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -277,6 +279,7 @@ Used in **quiz/study apps**, like:
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2404-most-frequent-even-element) |
@@ -508,6 +511,7 @@ Used in **quiz/study apps**, like:
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
