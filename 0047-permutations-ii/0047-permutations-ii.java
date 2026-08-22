@@ -2,6 +2,8 @@ class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> li=new ArrayList<>();
+        // for maintain previous history of previous call
+        // agr solve fun m bnaya ye array to hr iteration ke lia naya bnega
         boolean visited[]=new boolean[nums.length];
 
         solve(nums, li, visited, ans);
