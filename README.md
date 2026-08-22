@@ -104,6 +104,7 @@ Used in **quiz/study apps**, like:
 | [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -340,6 +341,7 @@ Used in **quiz/study apps**, like:
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -500,6 +502,7 @@ Used in **quiz/study apps**, like:
 | [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
