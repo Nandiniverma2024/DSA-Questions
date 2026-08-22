@@ -23,10 +23,10 @@ class Solution {
             if(visited[i]==true){
                 continue; //skip el for next level
             }
-
+            // make choice
             li.add(arr[i]);
             visited[i]=true; 
-            solve(arr, li, visited, ans);
+            solve(arr, li, visited, ans); //explore choice
             // do baacktrack when we hit base case
             // backtrack (ye bache hua steps h previous call ke)
             li.remove(li.size()-1);
