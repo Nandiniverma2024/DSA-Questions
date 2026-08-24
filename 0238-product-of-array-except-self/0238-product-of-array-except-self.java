@@ -24,3 +24,6 @@ class Solution {
         return nums;
     }
 }
+
+// LEFT | CURRENT | RIGHT
+// answer = LEFT × RIGHT
