@@ -76,6 +76,7 @@ Used in **quiz/study apps**, like:
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -337,6 +338,7 @@ Used in **quiz/study apps**, like:
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
