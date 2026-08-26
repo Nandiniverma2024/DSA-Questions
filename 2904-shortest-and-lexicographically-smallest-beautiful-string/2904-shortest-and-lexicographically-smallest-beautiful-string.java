@@ -4,8 +4,6 @@ class Solution {
         int n=s.length();
         int minLen=Integer.MAX_VALUE;
         int ones=0, start=0;
-        HashSet<String> set=new HashSet<>();
-        StringBuilder sb=new StringBuilder();
         while(right<n){
             char ch=s.charAt(right);
             if(ch=='1'){
