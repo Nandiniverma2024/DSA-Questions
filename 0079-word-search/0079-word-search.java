@@ -2,43 +2,38 @@ class Solution {
     public boolean exist(char[][] board, String word) {
         int n=board.length;
         int m=board[0].length;
-
-        // mathch initial character of word
+        boolean visited[][]=new boolean[n][m];
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(board[i][j]==word.charAt(0)){
-                    if(solve(board, word, i, j, 0)){
-                        return true;
-                    }
+                //idx => index to traverse on word
+                if(solve(board, i, j, 0, visited, word)){
+                    return true;
                 }
             }
         }
-        return false;
+
+        return false; 
+
+        // return ans;
     }
-    // solve fun => agr char mil gya , to ye word bi khud hi search kr dega
-    public boolean solve(char board[][], String word, int i, int j , int idx){
+    public boolean solve(char board[][], int i, int j, int idx, boolean visited[][], String word){
         int n=board.length;
         int m=board[0].length;
-        // Base Case
-        if(idx==word.length()){ // idx will traverse on word
+        // Base Condition
+        if(idx==word.length()){
             return true;
         }
-        // invalid positions
-        if(i>=n || i<0 || j>=m || j<0 || board[i][j]!=word.charAt(idx)){
+        // Invalid condition
+        if(i<0 || j<0 || i>=n || j>=m || visited[i][j] || board[i][j]!=word.charAt(idx)){
             return false;
         }
-        char ch=board[i][j];
-        board[i][j]='#'; //mark visited
-
-
-        // find character and explore choice using idx
-        boolean found=solve(board, word, i-1, j, idx + 1) || 
-                      solve(board, word, i+1, j, idx + 1) ||
-                      solve(board, word, i, j-1, idx + 1) ||
-                      solve(board, word, i, j+1, idx + 1);
-        
-        // sari choice explore ho chuki h by using solve , uske bad board[i][j]=ch;, chlega
-        board[i][j]=ch; //backtrack
+        visited[i][j]=true;
+        // find character then solve func explore other choices
+        boolean found=  solve(board, i-1, j, idx+1, visited, word) || 
+                        solve(board, i+1, j, idx+1, visited, word)||
+                        solve(board, i, j-1, idx+1, visited, word)||
+                        solve(board, i, j+1, idx+1, visited, word);
+        visited[i][j]=false;
 
         return found;
     }
