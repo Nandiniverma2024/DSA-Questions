@@ -13,8 +13,6 @@ class Solution {
         }
 
         return false; 
-
-        // return ans;
     }
     public boolean solve(char board[][], int i, int j, int idx, boolean visited[][], String word){
         int n=board.length;
@@ -33,7 +31,7 @@ class Solution {
                         solve(board, i+1, j, idx+1, visited, word)||
                         solve(board, i, j-1, idx+1, visited, word)||
                         solve(board, i, j+1, idx+1, visited, word);
-        visited[i][j]=false;
+        visited[i][j]=false; //backtrack
 
         return found;
     }
