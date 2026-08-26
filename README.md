@@ -109,6 +109,7 @@ Used in **quiz/study apps**, like:
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
@@ -517,6 +518,7 @@ Used in **quiz/study apps**, like:
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
@@ -539,4 +541,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
