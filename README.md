@@ -104,6 +104,7 @@ Used in **quiz/study apps**, like:
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
@@ -188,6 +189,7 @@ Used in **quiz/study apps**, like:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
@@ -301,6 +303,7 @@ Used in **quiz/study apps**, like:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
