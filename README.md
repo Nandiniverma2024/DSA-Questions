@@ -104,6 +104,7 @@ Used in **quiz/study apps**, like:
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
@@ -187,6 +188,7 @@ Used in **quiz/study apps**, like:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
@@ -299,6 +301,7 @@ Used in **quiz/study apps**, like:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -514,6 +517,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0046-permutations) |
@@ -545,6 +549,11 @@ Used in **quiz/study apps**, like:
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
