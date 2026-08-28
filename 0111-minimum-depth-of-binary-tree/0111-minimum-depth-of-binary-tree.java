@@ -15,21 +15,35 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
+        Queue<TreeNode> q=new ArrayDeque<>();
+        int cnt=0;
+
         if(root==null){
             return 0;
         }
-        int lh=minDepth(root.left);
-        int rh=minDepth(root.right);
 
-        // agr left child exist hi nhi krta to return right child ki height
-        if(root.left==null){
-            return rh+1;
-        }
-        // agr right child exist hi nhi krta to return left child ki height
-        if(root.right==null){
-            return lh+1;
-        }
+        q.offer(root);
+        
+        while(!q.isEmpty()){
+            int levelNum=q.size();
+            cnt++;
 
-        return Math.min(lh, rh)+1;
+            for(int i=0; i<levelNum; i++){
+                TreeNode curr=q.poll();
+
+                if(curr.left==null && curr.right==null){
+                    return cnt;
+                }
+                
+                if(curr.left!=null){
+                    q.add(curr.left);
+                }
+                if(curr.right!=null){
+                    q.add(curr.right);
+                }
+            
+            }
+        }
+        return cnt;
     }
 }
