@@ -15,13 +15,21 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
+        // Base Condition
         if(p==null && q==null){
             return true;
         }
-        // Agr p ya q m se koi ek null h or dusra nhi to return null
-        if(p==null || q==null){
+        if(q==null || p==null){
             return false;
         }
-        return (p.val==q.val) && isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
+        // work
+        if(p.val!=q.val){
+                return false;
+        }
+        // recursive call
+        boolean left=isSameTree(p.left, q.left);
+        boolean right=isSameTree(p.right, q.right);
+
+        return (left&&right);
     }
 }
