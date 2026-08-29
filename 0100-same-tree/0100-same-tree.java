@@ -19,7 +19,10 @@ class Solution {
         if(p==null && q==null){
             return true;
         }
-        if(q==null || p==null){
+        if(q!=null && p==null){
+            return false;
+        }
+        if(p!=null && q==null){
             return false;
         }
         // work
