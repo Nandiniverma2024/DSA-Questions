@@ -476,6 +476,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
@@ -565,6 +566,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -587,6 +589,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -599,6 +602,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -611,6 +615,7 @@ Used in **quiz/study apps**, like:
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Primality Test
 |  |
