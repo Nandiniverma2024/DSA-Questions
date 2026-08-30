@@ -15,16 +15,30 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
+        return solve(root, targetSum, 0);
+    }
+    public boolean solve(TreeNode root, int targetSum, int sum){
+        // Base Case
         if(root==null){
             return false;
         }
-        
+
+        sum+=root.val;
         if(root.left==null && root.right==null){
-            return targetSum == root.val;
+            if(sum!=targetSum){
+                return false;
+            }else{
+                return true;
+            }
         }
 
-        targetSum -= root.val;
+        
+        if(solve(root.left, targetSum, sum)){
+            return true;
+        }
+        // sum-=root.val; //backtracking (since primitive int)
+        // Previous call ka sum samerhega usa minus krne jarurat nhi on basis of children
 
-        return (hasPathSum(root.left, targetSum) || hasPathSum(root.right, targetSum));
+        return solve(root.right, targetSum, sum);
     }
 }
