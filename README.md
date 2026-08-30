@@ -159,6 +159,7 @@ Used in **quiz/study apps**, like:
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -359,6 +360,7 @@ Used in **quiz/study apps**, like:
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
