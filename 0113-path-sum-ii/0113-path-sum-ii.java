@@ -40,6 +40,9 @@ class Solution {
             solve(root.right, targetSum, sum, li, ans);
         }
 
+
+        // leaf node pr => do backtrack (jb equal h tb backtrack to find new path)
+        // do backtrack if sum != targetSum
         // Do backtrack either it is leaf node or not (if sum 1= targetSum)
         li.remove(li.size()-1); //backtrack
     }
