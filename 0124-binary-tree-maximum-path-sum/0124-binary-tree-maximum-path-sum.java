@@ -27,11 +27,12 @@ class Solution {
         int leftMax=Math.max(0, solve(root.left));
         int rightMax=Math.max(0, solve(root.right));
         
-        // work(Global maximum)
+        // work(Global maximum) (u-Shape)
         maxVal=Math.max(maxVal, (root.val + leftMax + rightMax));
 
 
         // MAxima from left nad right subtree
+        // For finding left nad right maximum
         return Math.max(leftMax, rightMax) + root.val;
         
     }
