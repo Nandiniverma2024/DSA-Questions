@@ -14,23 +14,25 @@
  * }
  */
 class Solution {
-    int maxSum=Integer.MIN_VALUE;
+    int maxVal=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        dfs(root);
-        return maxSum;
+        solve(root);
+        return maxVal;
     }
-    private int dfs(TreeNode root){
+    public int solve(TreeNode root){
         if(root==null){
             return 0;
         }
-        int leftST=Math.max(0, dfs(root.left));
-        int rightST=Math.max(0, dfs(root.right));
+        
+        int leftMax=Math.max(0, solve(root.left));
+        int rightMax=Math.max(0, solve(root.right));
+        
+        // work(Global maximum)
+        maxVal=Math.max(maxVal, (root.val + leftMax + rightMax));
 
-        int currSum=leftST+rightST+root.val;
 
-        maxSum=Math.max(maxSum, currSum);
-
-        // Pass the best single path to upward node(if exist)  
-        return root.val+Math.max(leftST,rightST);
+        // MAxima from left nad right subtree
+        return Math.max(leftMax, rightMax) + root.val;
+        
     }
 }
