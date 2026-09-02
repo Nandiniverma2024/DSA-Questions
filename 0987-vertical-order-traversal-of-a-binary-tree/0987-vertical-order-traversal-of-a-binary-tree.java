@@ -14,48 +14,56 @@
  * }
  */
 class Solution {
-    TreeMap<Integer, TreeMap<Integer, ArrayList<Integer>>> map=new TreeMap<>();
-    public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<List<Integer>> ans=new ArrayList<>();
-        if(root==null){
-            return ans;
+    class Tuple{
+        TreeNode node;
+        int col;
+        int row;
+        Tuple(TreeNode node, int col, int row){
+            this.node=node;
+            this.col=col;
+            this.row=row;
         }
+    }
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map=new TreeMap<>();
+        Queue<Tuple> q=new ArrayDeque<>();
 
-        dfs(root, 0, 0);
+        q.offer(new Tuple(root, 0, 0));
 
-        for(Map.Entry<Integer, TreeMap<Integer, ArrayList<Integer>>> outer : map.entrySet()){
-            TreeMap<Integer, ArrayList<Integer>> levelMap=outer.getValue();
+        while(!q.isEmpty()){
+            Tuple curr=q.poll();
+
+            TreeNode node=curr.node;
+            int col=curr.col;
+            int row=curr.row;
+
+            if(!map.containsKey(col)){
+                map.put(col, new TreeMap<>());
+            }
+
+            if(!map.get(col).containsKey(row)){
+                map.get(col).put(row, new PriorityQueue<>());
+            }
+
+            map.get(col).get(row).add(node.val);
+
+            if(node.left!=null){
+                q.offer(new Tuple(node.left, col-1, row+1));
+            }
+            if(node.right!=null){
+                q.offer(new Tuple(node.right, col+1, row+1));
+            }
+        }
+        List<List<Integer>> ans=new ArrayList<>();
+        for(TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()){
             ArrayList<Integer> li=new ArrayList<>();
-
-            for(Map.Entry<Integer, ArrayList<Integer>> inner:levelMap.entrySet()){
-                ArrayList<Integer> subLi=inner.getValue();
-               
-                Collections.sort(subLi);
-                li.addAll(subLi);
+            for(PriorityQueue<Integer> nodes : rows.values()){
+                while(!nodes.isEmpty()){
+                    li.add(nodes.poll());
+                }
             }
             ans.add(li);
         }
         return ans;
     }
-    public void dfs(TreeNode root, int col, int level){
-        // Base Case
-        if(root==null){
-            return;
-        }
-        // Main Kaam
-        if(!map.containsKey(col)){
-            map.put(col, new TreeMap<>());
-        }
-        if(!map.get(col).containsKey(level)){
-            map.get(col).put(level, new ArrayList<>());
-        }
-        map.get(col).get(level).add(root.val);
-
-        // recursion
-        dfs(root.left, col-1, level+1);
-        dfs(root.right, col+1, level+1);
-    }
 }
-
-// map(col, map(level, us level ki list))
-// treemap sirf key ko sort krta h , values ko sort krne ke lia use Collections.sort or use priority queue
