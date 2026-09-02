@@ -19,17 +19,17 @@ class Solution {
         if(nums1[n-1]%2 == 0){ //even
             for(int i=0; i<n-1; i++){
                 if( (nums1[i]%2!=0 || (nums1[i]-nums1[i+1]) %2 ==0 ) && (nums1[i]%2==0 || (nums1[i]-nums1[i+1]) %2 !=0)){
-                    return false;
+                    return true;
                 }
             }
         }else if(nums1[n-1]%2 != 0){ //odd
              for(int i=0; i<n-1; i++){
                 if((nums1[i]%2==0 || (nums1[i]-nums1[i+1]) %2 !=0 ) && (nums1[i]%2!=0 || (nums1[i]-nums1[i+1]) %2 ==0)){
-                    return false;
+                    return true;
                 }
             }
         }
 
-        return true;
+        return false;
     }
 }
