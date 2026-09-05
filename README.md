@@ -122,6 +122,7 @@ Used in **quiz/study apps**, like:
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
@@ -205,6 +206,7 @@ Used in **quiz/study apps**, like:
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -297,6 +299,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -619,6 +622,7 @@ Used in **quiz/study apps**, like:
 | [0101-symmetric-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
@@ -644,6 +648,7 @@ Used in **quiz/study apps**, like:
 | [0101-symmetric-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
