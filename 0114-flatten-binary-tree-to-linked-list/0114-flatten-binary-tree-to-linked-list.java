@@ -24,7 +24,7 @@ class Solution {
         flatten(root.left);
         root.right=prev;
         root.left=null;
-        prev=root; // update prev
+        prev=root; // update prev while return in call stack
 
         // do reverse of preorder to get linked list of style preorder 
         // root left right => right left root
