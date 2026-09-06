@@ -88,6 +88,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
@@ -428,6 +429,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
@@ -594,6 +596,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -629,6 +632,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -656,6 +660,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
