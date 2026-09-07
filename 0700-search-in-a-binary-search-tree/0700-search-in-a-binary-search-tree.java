@@ -19,9 +19,9 @@ class Solution {
             if(root.val==val){
                 return root;
             }else if(val<root.val){
-                return searchBST(root.left, val);
+                root=root.left;
             }else if(val>root.val){
-                return searchBST(root.right, val);
+                root=root.right;
             }
         }
         return null;
