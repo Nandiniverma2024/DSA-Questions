@@ -14,15 +14,16 @@
  * }
  */
 class Solution {
-    int curr=0, ans=-1;
+    int curr=0, ans=0; //make it global, taki hr call m 0 na ho
     public int kthSmallest(TreeNode root, int k) {
         // Base Case
         if(root==null){
-            return -1;
+            return 0;
         }
+        // Inorder Traversal
         kthSmallest(root.left, k);
-        curr++;
-        if(curr==k){
+        curr++; //root milte count barao
+        if(curr==k){ 
             ans=root.val;
             return ans;
         }
