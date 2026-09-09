@@ -25,7 +25,7 @@ class Solution {
         if(root==null){
             return true;
         }
-        // Base Case
+        // if node is out of range
         if(root.val<=minVal || root.val>=maxVal){
             return false;
         }
@@ -35,3 +35,6 @@ class Solution {
         // dono subtree valid bst ki condition satisfy krne chahiye
     }
 }
+
+// left => minval to root
+// right=> root to maxVal
