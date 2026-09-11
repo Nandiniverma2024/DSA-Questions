@@ -168,6 +168,7 @@ Used in **quiz/study apps**, like:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -233,6 +234,7 @@ Used in **quiz/study apps**, like:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -354,6 +356,7 @@ Used in **quiz/study apps**, like:
 | [1291-sequential-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -406,6 +409,7 @@ Used in **quiz/study apps**, like:
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -528,6 +532,7 @@ Used in **quiz/study apps**, like:
 | [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
