@@ -15,26 +15,43 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        ArrayList<Integer> li=new ArrayList<>();
-        inorder(root, li);
-        int i=0, j=li.size()-1;
-        while(i<j){
-            if(li.get(i) + li.get(j) < k){
-                i++;
-            }else if(li.get(i) + li.get(j) > k){
-                j--;
-            }else{
+        Stack<TreeNode> leftStack=new Stack<>();
+        Stack<TreeNode> rightStack=new Stack<>();
+        pushLeft(root, leftStack);
+        pushRight(root, rightStack);
+
+        while(!leftStack.isEmpty() && !rightStack.isEmpty()){
+            TreeNode left=leftStack.peek();
+            TreeNode right=rightStack.peek();
+
+            // agr dono same node ko point kr rhe h, return false
+            if(left==right){
+                return false;
+            }
+
+            if(left.val + right.val == k){
                 return true;
+            }else if(left.val + right.val < k){
+                TreeNode node=leftStack.pop();
+                // right subtree ke sare left child ko stack m push kr
+                pushLeft(node.right, leftStack);
+            }else if(left.val+right.val > k){
+                TreeNode node=rightStack.pop();
+                pushRight(node.left, rightStack);
             }
         }
         return false;
     }
-    public void inorder(TreeNode root, ArrayList<Integer> li){
-        if(root==null){
-            return;
+    public void pushLeft(TreeNode root, Stack<TreeNode> leftStack){
+        while(root!=null){
+            leftStack.push(root);
+            root=root.left;
         }
-        inorder(root.left, li);
-        li.add(root.val);
-        inorder(root.right, li);
+    }
+    public void pushRight(TreeNode root, Stack<TreeNode> rightStack){
+        while(root!=null){
+            rightStack.push(root);
+            root=root.right;
+        }
     }
 }
