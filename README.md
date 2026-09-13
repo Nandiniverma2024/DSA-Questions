@@ -411,6 +411,7 @@ Used in **quiz/study apps**, like:
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -629,6 +630,7 @@ Used in **quiz/study apps**, like:
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Algorithm X
@@ -676,6 +678,7 @@ Used in **quiz/study apps**, like:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -714,6 +717,7 @@ Used in **quiz/study apps**, like:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -784,6 +788,7 @@ Used in **quiz/study apps**, like:
 | [0700-search-in-a-binary-search-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
