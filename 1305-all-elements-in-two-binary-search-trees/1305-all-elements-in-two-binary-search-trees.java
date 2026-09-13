@@ -25,11 +25,11 @@ class Solution {
             if(leftStack1.peek().val <= leftStack2.peek().val){
                 TreeNode curr=leftStack1.pop();
                 temp.add(curr.val);
-                pushLeft(curr.right, leftStack1);
+                pushLeft(curr.right, leftStack1); //search for leftmost node from right subtree
             }else if(leftStack2.peek().val < leftStack1.peek().val){
                 TreeNode curr=leftStack2.pop();
                 temp.add(curr.val);
-                pushLeft(curr.right, leftStack2);
+                pushLeft(curr.right, leftStack2); //search for leftmost node from right subtree
             }
         }
 
