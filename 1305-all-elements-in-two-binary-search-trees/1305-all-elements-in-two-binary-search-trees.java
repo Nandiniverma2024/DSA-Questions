@@ -15,43 +15,43 @@
  */
 class Solution {
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
-        List<Integer> l1=new ArrayList<>();
-        List<Integer> l2=new ArrayList<>();
-
+        Stack<TreeNode> leftStack1=new Stack<>();
+        Stack<TreeNode> leftStack2=new Stack<>();
         List<Integer> temp=new ArrayList<>();
-        
-        inorder(root1, l1);
-        inorder(root2, l2);
+        pushLeft(root1, leftStack1);
+        pushLeft(root2, leftStack2);
 
-        int i=0, j=0;
-        while(i<l1.size() && j<l2.size()){
-            if(l1.get(i)<=l2.get(j)){
-                temp.add(l1.get(i));
-                i++;
-            }else if(l2.get(j)<l1.get(i)){
-                temp.add(l2.get(j));
-                j++;
+        while(!leftStack1.isEmpty() && !leftStack2.isEmpty()){
+            if(leftStack1.peek().val <= leftStack2.peek().val){
+                TreeNode curr=leftStack1.pop();
+                temp.add(curr.val);
+                pushLeft(curr.right, leftStack1);
+            }else if(leftStack2.peek().val < leftStack1.peek().val){
+                TreeNode curr=leftStack2.pop();
+                temp.add(curr.val);
+                pushLeft(curr.right, leftStack2);
             }
         }
 
-        while(i<l1.size()){
-            temp.add(l1.get(i));
-            i++;
+        while(!leftStack1.isEmpty()){
+            TreeNode curr=leftStack1.pop();
+            temp.add(curr.val);
+            pushLeft(curr.right, leftStack1);
         }
 
-        while(j<l2.size()){
-            temp.add(l2.get(j));
-            j++;
+        while(!leftStack2.isEmpty()){
+            TreeNode curr=leftStack2.pop();
+            temp.add(curr.val);
+            pushLeft(curr.right, leftStack2);
         }
 
         return temp;
     }
-    public void inorder(TreeNode root, List<Integer> li){
-        if(root==null){
-            return;
+    public void pushLeft(TreeNode root, Stack<TreeNode> leftStack){
+        while(root!=null){
+            leftStack.push(root);
+            root=root.left;
         }
-        inorder(root.left, li);
-        li.add(root.val);
-        inorder(root.right, li);
     }
+    
 }
