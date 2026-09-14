@@ -280,6 +280,7 @@ Used in **quiz/study apps**, like:
 | [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0223-rectangle-area) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -546,6 +547,7 @@ Used in **quiz/study apps**, like:
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
