@@ -281,6 +281,7 @@ Used in **quiz/study apps**, like:
 | [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -541,6 +542,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -558,6 +560,7 @@ Used in **quiz/study apps**, like:
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
