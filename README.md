@@ -564,6 +564,7 @@ Used in **quiz/study apps**, like:
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
