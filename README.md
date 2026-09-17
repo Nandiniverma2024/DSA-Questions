@@ -129,6 +129,7 @@ Used in **quiz/study apps**, like:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
@@ -562,6 +563,7 @@ Used in **quiz/study apps**, like:
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
