@@ -293,6 +293,7 @@ Used in **quiz/study apps**, like:
 | [0836-rectangle-overlap](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1922-count-good-numbers) |
@@ -571,6 +572,7 @@ Used in **quiz/study apps**, like:
 | [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0342-power-of-four) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
+| [1486-xor-operation-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
