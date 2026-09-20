@@ -181,6 +181,7 @@ Used in **quiz/study apps**, like:
 | [2404-most-frequent-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -249,6 +250,7 @@ Used in **quiz/study apps**, like:
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -308,6 +310,7 @@ Used in **quiz/study apps**, like:
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -544,6 +547,7 @@ Used in **quiz/study apps**, like:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -772,22 +776,27 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -824,4 +833,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
