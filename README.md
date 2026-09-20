@@ -298,6 +298,7 @@ Used in **quiz/study apps**, like:
 | [0836-rectangle-overlap](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1362-closest-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1362-closest-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -836,5 +837,6 @@ Used in **quiz/study apps**, like:
 ## Prime Factorization
 |  |
 | ------- |
+| [1362-closest-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1362-closest-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
