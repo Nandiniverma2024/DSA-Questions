@@ -63,6 +63,7 @@ Used in **quiz/study apps**, like:
 | [0257-binary-tree-paths](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
@@ -102,6 +103,7 @@ Used in **quiz/study apps**, like:
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -292,6 +294,7 @@ Used in **quiz/study apps**, like:
 | [0223-rectangle-area](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
