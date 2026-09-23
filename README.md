@@ -172,6 +172,7 @@ Used in **quiz/study apps**, like:
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -247,6 +248,7 @@ Used in **quiz/study apps**, like:
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -282,6 +284,7 @@ Used in **quiz/study apps**, like:
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
@@ -408,6 +411,7 @@ Used in **quiz/study apps**, like:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -524,6 +528,7 @@ Used in **quiz/study apps**, like:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
