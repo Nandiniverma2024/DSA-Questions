@@ -320,6 +320,7 @@ Used in **quiz/study apps**, like:
 | [2469-convert-the-temperature](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
