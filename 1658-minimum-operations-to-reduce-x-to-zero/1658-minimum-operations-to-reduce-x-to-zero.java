@@ -1,43 +1,43 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
-        int sum = 0;  // total sum
-        for(int i = 0; i < nums.length; i++) {
-            sum += nums[i];
+        int left=0, right=0, n=nums.length;
+        int totalSum=0;
+        for(int i=0; i<nums.length; i++){
+            totalSum+=nums[i];
         }
-        // findout subarray of maxLength in middle having sum == target
-        // to answer hoga ---> nums.length - maxLenght(required minimum length/operations)
-        int target = sum - x;
-
-        // edge cases
-        if(target < 0) {
+        // TotalSum-x
+        int target=totalSum-x;
+        if(target<0){
             return -1;
+        }else if(target==0){
+            return n;
         }
+        int sum=0;
+        int maxLen=Integer.MIN_VALUE;
 
-        if(target == 0) {
-            return nums.length;
-        }
-
-        int left = 0, right = 0;
-        int s = 0, maxLen = 0;
-        while(right < nums.length) {
-            s += nums[right];
-            if(s < target) {
+        while(right<n){
+            sum+=nums[right];
+            if(sum<target){
                 right++;
-            } else if(s == target) {
-                maxLen = Math.max(maxLen, right-left+1);
+            }else if(sum==target){
+                maxLen=Math.max(maxLen, right-left+1);
                 right++;
-            } else if(s > target) {
-                while(s > target) {
-                    s -= nums[left];
+            }else if(sum>target){
+                while(sum>target){
+                    sum-=nums[left];
                     left++;
                 }
-                if(s == target) {
-                    maxLen = Math.max(maxLen, right-left+1);
+                if(sum==target){
+                    maxLen=Math.max(maxLen, right-left+1);
                 }
                 right++;
             }
         }
 
-        return maxLen == 0 ? -1 : nums.length - maxLen;
+        if(maxLen==Integer.MIN_VALUE){
+            return -1;
+        }
+
+        return n-maxLen;
     }
 }
