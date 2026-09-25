@@ -63,6 +63,7 @@ Used in **quiz/study apps**, like:
 | [0257-binary-tree-paths](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -236,6 +237,7 @@ Used in **quiz/study apps**, like:
 | [0205-isomorphic-strings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -363,6 +365,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
@@ -466,6 +469,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
