@@ -15,27 +15,33 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
+        // Base Case
         if(root==null){
             return true;
         }
-        int lh=height(root.left);
-        int rh=height(root.right);
 
-        // check agr root balnce balnce h
-        if(Math.abs(lh-rh)>1){
+        // Work
+        int left=height(root.left);
+        int right=height(root.right);
+
+        int diff=Math.abs(right-left);
+
+        if(diff>1){
             return false;
         }
 
-        // recursivly check for each node of left subTree and right subTree
+        // Recursion
         return isBalanced(root.left) && isBalanced(root.right);
     }
+
     public int height(TreeNode root){
         if(root==null){
             return 0;
         }
-        int lh=height(root.left);
-        int rh=height(root.right);
 
-        return Math.max(lh,rh)+1;
+        int left=height(root.left);
+        int right=height(root.right);
+
+        return Math.max(left, right)+1;
     }
 }
