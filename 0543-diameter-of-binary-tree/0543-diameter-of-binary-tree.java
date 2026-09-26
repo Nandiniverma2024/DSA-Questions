@@ -19,12 +19,17 @@ class Solution {
         if(root==null){
             return 0;
         }
-
+        
+        // work
         int leftH=height(root.left);
         int rightH=height(root.right);
 
-        int dia=leftH+rightH; // diameter thoush root
+        int dia=leftH+rightH; // diameter though root
 
+
+        // Recursive call
+        
+        // diameter from left subtree and right subtree
         int leftDia=diameterOfBinaryTree(root.left);
         int rightDia=diameterOfBinaryTree(root.right);
 
