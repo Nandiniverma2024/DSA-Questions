@@ -18,26 +18,24 @@ class Solution {
         if(root==null){
             return true;
         }
-
-        return solve(root.left, root.right);
+        return symmetric(root.left, root.right);
     }
-    public boolean solve(TreeNode left, TreeNode right){
-        // Base Case(left and right dono null pr puch gye search krte krte)
-        if(left==null && right==null){ 
+    public boolean symmetric(TreeNode p, TreeNode q){
+        // Base Case
+        if(p==null && q==null){
             return true;
         }
-        if(left==null || right==null){  //invalid condition
+        if(p==null || q==null){
             return false;
         }
 
-        // Main kaam
-        if(left.val!=right.val){
+        // Work
+        if(p.val!=q.val){
             return false;
         }
-        // recursive call
-        boolean leftSym=solve(left.left, right.right);
-        boolean rightSym=solve(left.right, right.left);
+        
 
-        return leftSym && rightSym;
+        // Recursion
+        return symmetric(p.left, q.right) && symmetric(p.right, q.left);
     }
 }
