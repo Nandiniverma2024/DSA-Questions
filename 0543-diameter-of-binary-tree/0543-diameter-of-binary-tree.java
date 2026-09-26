@@ -14,26 +14,10 @@
  * }
  */
 class Solution {
+    int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        // Base Case
-        if(root==null){
-            return 0;
-        }
-        
-        // work
-        int leftH=height(root.left);
-        int rightH=height(root.right);
-
-        int dia=leftH+rightH; // diameter though root
-
-
-        // Recursive call
-        
-        // diameter from left subtree and right subtree
-        int leftDia=diameterOfBinaryTree(root.left);
-        int rightDia=diameterOfBinaryTree(root.right);
-
-        return Math.max(dia, Math.max(leftDia, rightDia));
+        height(root);
+        return diameter;
 
     }
     public int height(TreeNode root){
@@ -42,6 +26,8 @@ class Solution {
         }
         int left=height(root.left);
         int right=height(root.right);
+
+        diameter=Math.max(diameter, left+right);
 
         return Math.max(left, right)+1;
     }
