@@ -15,23 +15,19 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        // Base Condition
         if(p==null && q==null){
             return true;
         }
-        if(q!=null && p==null){
-            return false;
-        }
-        if(p!=null && q==null){
+        if(p==null || q==null){
             return false;
         }
 
         // work
         if(p.val!=q.val){
-                return false;
+            return false;
         }
-        
-        // recursive call
+
+        // recursve call
         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
