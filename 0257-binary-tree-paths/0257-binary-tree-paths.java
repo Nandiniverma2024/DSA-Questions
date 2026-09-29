@@ -15,28 +15,20 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> ans=new ArrayList<>();
-        solve(root, "", ans);
-        return ans;
+        List<String> li=new ArrayList<>();
+        solve(root, "", li);
+        return li;
     }
-    public void solve(TreeNode root, String Path, List<String> ans){
-        // Main kaam 
-        Path=Path+root.val;
-
-        // Base Case(leaf node milte hi add path into ans list)
-        if(root.left==null && root.right==null){
-            ans.add(Path);
-            return;
+    public void solve(TreeNode root, String path, List<String> li){
+        path+=root.val;
+        if(root.left == null && root.right==null){
+            li.add(path);
         }
-
-        // Recursion
-        // explore left possible path
         if(root.left!=null){
-            solve(root.left, Path+"->", ans);
+            solve(root.left, path+"->", li);
         }
-        // explore right possible path
         if(root.right!=null){
-            solve(root.right, Path+"->", ans);
+            solve(root.right, path+"->", li);
         }
     }
 }
