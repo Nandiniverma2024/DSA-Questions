@@ -15,32 +15,43 @@
  */
 class Solution {
     class Tuple{
-        TreeNode node;
+        TreeNode root;
         int col;
         int row;
-        Tuple(TreeNode node, int col, int row){
-            this.node=node;
+        Tuple(TreeNode root, int col, int row){
+            this.root=root;
             this.col=col;
             this.row=row;
         }
-    }
+    } 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
+        List<List<Integer>> res=new ArrayList<>();
+        // col -> row -> root
         TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map=new TreeMap<>();
-        Queue<Tuple> q=new ArrayDeque<>();
 
+        Queue<Tuple> q=new ArrayDeque<>(); // root -> col -> row
+
+        if(root==null){
+            return res;
+        }
+
+        // root -> col -> row
         q.offer(new Tuple(root, 0, 0));
 
         while(!q.isEmpty()){
             Tuple curr=q.poll();
 
-            TreeNode node=curr.node;
+            TreeNode node=curr.root;
             int col=curr.col;
             int row=curr.row;
 
+            // Add col, jo chiz ni pta usa new bna ke chor do
+            // jaise new Priority queue
             if(!map.containsKey(col)){
                 map.put(col, new TreeMap<>());
             }
 
+            // Add Row, and priority for root value
             if(!map.get(col).containsKey(row)){
                 map.get(col).put(row, new PriorityQueue<>());
             }
@@ -54,16 +65,20 @@ class Solution {
                 q.offer(new Tuple(node.right, col+1, row+1));
             }
         }
-        List<List<Integer>> ans=new ArrayList<>();
+
+        // col -> key, row -> values
+        // col se assosiated rows pr loop chal rha h
         for(TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()){
-            ArrayList<Integer> li=new ArrayList<>();
-            for(PriorityQueue<Integer> nodes : rows.values()){
-                while(!nodes.isEmpty()){
-                    li.add(nodes.poll());
+            List<Integer> li=new ArrayList<>();
+            // rows(key), pq(root) i.e values
+            for(PriorityQueue<Integer> pq:rows.values()){
+                // poll to add values in list
+                while(!pq.isEmpty()){
+                    li.add(pq.poll());
                 }
             }
-            ans.add(li);
+            res.add(li);
         }
-        return ans;
+        return res;
     }
 }
