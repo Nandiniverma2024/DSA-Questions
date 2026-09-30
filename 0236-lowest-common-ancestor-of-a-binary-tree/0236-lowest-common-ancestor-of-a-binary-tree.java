@@ -9,14 +9,17 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        // search krte hua leave ke null bacho pr puch gye
+        // Base Case
         if(root==null){
-            return null;
+            return null; //no common ancestor
         }
+
+        // work
         if(root.val==p.val || root.val==q.val){
             return root;
         }
 
+        // Recursive call
         TreeNode leftLca=lowestCommonAncestor(root.left, p, q);
         TreeNode rightLca=lowestCommonAncestor(root.right, p, q);
 
