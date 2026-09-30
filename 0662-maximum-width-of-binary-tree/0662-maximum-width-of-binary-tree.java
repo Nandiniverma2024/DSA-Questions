@@ -23,37 +23,36 @@ class Solution {
         }
     }
     public int widthOfBinaryTree(TreeNode root) {
-        if(root==null){
-            return 0;
-        }
-        int maxWidth=0;
         Queue<Pair> q=new ArrayDeque<>();
+        int maxWidth=0;
 
         q.offer(new Pair(root, 0));
 
         while(!q.isEmpty()){
-            int levelCount=q.size(); //us level pr present nodes
-            int first=q.peek().idx;
-            int last=first;
+            // to track idx, we need first and last index
+            int first=q.peek().idx; //fix idx(of the first)
+            int last=first; //initialize 
 
-            
-            for(int i=0; i<levelCount; i++){
+            int levelCnt=q.size();
+
+            for(int i=0; i<levelCnt; i++){
                 Pair curr=q.poll();
-                TreeNode curRoot=curr.root;
+
+                TreeNode node=curr.root;
                 int idx=curr.idx;
 
+                // Update last
                 last=idx;
-                if(curRoot.left!=null){
-                    q.offer(new Pair(curRoot.left, 2*idx+1));
+
+                if(node.left!=null){
+                    q.offer(new Pair(node.left, 2*idx+1));
                 }
-                if(curRoot.right!=null){
-                    q.offer(new Pair(curRoot.right, 2*idx+2));
+                if(node.right!=null){
+                    q.offer(new Pair(node.right, 2*idx+2));
                 }
             }
-            // width => means length 
-            // number of nodes in a level b/w any two nodes
             int width=last-first+1;
-            maxWidth=Math.max(maxWidth, width);
+            maxWidth=Math.max(width, maxWidth);
         }
         return maxWidth;
     }
