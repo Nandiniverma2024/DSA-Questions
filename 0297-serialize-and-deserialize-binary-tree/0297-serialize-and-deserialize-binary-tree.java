@@ -15,7 +15,8 @@ public class Codec {
             return "";
         }
         StringBuilder sb=new StringBuilder();
-        Queue<TreeNode> q=new ArrayDeque<>();
+        Queue<TreeNode> q=new LinkedList<>();
+        // since null values are not allowed in ArrayDequ
 
         q.offer(root);
 
@@ -46,13 +47,14 @@ public class Codec {
         TreeNode root=new TreeNode(Integer.parseInt(values[0]));
 
         q.offer(root);
+        
+        int i=1;
 
         while(!q.isEmpty()){
             TreeNode parent=q.poll();
 
-            int i=0;
             if(!values[i].equals("n")){
-                TreeNode left=new TreeNode(Integer.parseInt(parent));
+                TreeNode left=new TreeNode(Integer.parseInt(values[i]));
                 parent.left=left;
                 q.offer(left);
             }
@@ -60,11 +62,14 @@ public class Codec {
             i++;
 
             if(i<values.length && !values[i].equals("n")){
-                TreeNode right=new TreeNode(Integer.parseInt(curr));
+                TreeNode right=new TreeNode(Integer.parseInt(values[i]));
                 parent.right=right;
                 q.offer(right);
             }
+
+            i++;
         }
+        return root;
     }
 }
 
