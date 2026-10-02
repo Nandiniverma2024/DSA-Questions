@@ -11,25 +11,27 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        // Base Case
         if(root==null){
             return "";
         }
-        StringBuilder pikachu=new StringBuilder();
-        Queue<TreeNode> teamRocket=new LinkedList<>();
-        teamRocket.offer(root);
-        while(!teamRocket.isEmpty()){
-            TreeNode curr=teamRocket.poll();
+        StringBuilder sb=new StringBuilder();
+        Queue<TreeNode> q=new ArrayDeque<>();
+
+        q.offer(root);
+
+        while(!q.isEmpty()){
+            TreeNode curr=q.poll();
+
             if(curr==null){
-                pikachu.append("n ");
+                sb.append("n ");
                 continue;
-                // continue likhne se iske niche wala code nhi chalega, vo skip ho jayga
             }
-            pikachu.append(curr.val + " ");
-            teamRocket.offer(curr.left);
-            teamRocket.offer(curr.right);
+            
+            sb.append(curr.val+" ");
+            q.offer(curr.left);
+            q.offer(curr.right);
         }
-        return pikachu.toString();
+        return sb.toString();
     }
 
     // Decodes your encoded data to tree.
@@ -37,32 +39,32 @@ public class Codec {
         if(data.isEmpty()){
             return null;
         }
+
         String values[]=data.split(" ");
         Queue<TreeNode> q=new LinkedList<>();
 
         TreeNode root=new TreeNode(Integer.parseInt(values[0]));
+
         q.offer(root);
-        int i=1;
 
         while(!q.isEmpty()){
             TreeNode parent=q.poll();
 
+            int i=0;
             if(!values[i].equals("n")){
-                TreeNode left=new TreeNode(Integer.parseInt(values[i]));
+                TreeNode left=new TreeNode(Integer.parseInt(parent));
                 parent.left=left;
                 q.offer(left);
             }
-        
+
             i++;
 
             if(i<values.length && !values[i].equals("n")){
-                TreeNode right=new TreeNode(Integer.parseInt(values[i]));
+                TreeNode right=new TreeNode(Integer.parseInt(curr));
                 parent.right=right;
                 q.offer(right);
             }
-            i++;
         }
-        return root;
     }
 }
 
