@@ -14,23 +14,22 @@
  * }
  */
 class Solution {
-    TreeNode prev=null; //muje hr call m previous null nhi chahiye
-    // muje updated previous chahiye, isilye use Global prev
+    TreeNode prev=null;
     public void flatten(TreeNode root) {
+        // Base Case
         if(root==null){
             return;
         }
+
+        // Recursive call
         flatten(root.right);
         flatten(root.left);
-        root.right=prev;
-        root.left=null;
-        prev=root; // update prev while return in call stack
 
-        // do reverse of preorder to get linked list of style preorder 
-        // root left right => right left root
+
+        // work(flatten binary tree) 
+        root.right=prev;
+        prev=root;
+
+        root.left=null;
     }
 }
-
-
-// niche se jo node milega vo previous h
-// pr upper se dhekhne m vo next node lagega
