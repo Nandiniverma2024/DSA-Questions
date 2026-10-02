@@ -15,36 +15,34 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        if(root==null){
-            return 0;
+        if(root==null){ //case for leaf node
+            return 0; 
         }
 
-        int leftHt=getLeft(root);
-        int rightHt=getRight(root);
+        int leftH=getLeft(root);
+        int rightH=getRight(root);
 
-        if(leftHt==rightHt){
-            // series => 1,2,4,8...
-            // sum of n terms in gp series => a((r^n)-1)/(r-1)
-            // Gp formula => 2^h -1
-            return (int)(Math.pow(2, leftHt) -1); 
+        if(leftH==rightH){
+            return (int)Math.pow(2, leftH) - 1;  //(2^h) - 1
         }
-        return 1+ countNodes(root.left) + countNodes(root.right);
+
+        return 1 + countNodes(root.left) + countNodes(root.right);
+
     }
-
     public int getLeft(TreeNode root){
         int height=0;
         while(root!=null){
-            height++;
             root=root.left;
+            height++;
         }
         return height;
     }
     public int getRight(TreeNode root){
         int height=0;
         while(root!=null){
-            height++;
             root=root.right;
+            height++;
         }
         return height;
     }
-}   
+}
