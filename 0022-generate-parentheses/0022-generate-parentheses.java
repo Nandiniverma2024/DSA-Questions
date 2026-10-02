@@ -1,40 +1,28 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-
-        StringBuilder str = new StringBuilder();
-
-        solve(n, n, str, ans);
-
-        return ans;
+        List<String> res=new ArrayList<>();
+        StringBuilder sb=new StringBuilder();
+        solve(n,n, sb, res);
+        return res;
     }
-
-    public void solve(int open, int close, StringBuilder str, List<String> ans) {
-        // base case 
-        if(open == 0 && close == 0) {
-            ans.add(str.toString());
+    public void solve(int opening , int closing, StringBuilder sb, List<String> res){
+        // Base Case
+        if(opening == 0 && closing==0){
+            res.add(sb.toString());
             return;
         }
 
-        // choice 1 --> add "("
-        if(open > 0) {
-            str.append('(');
-
-            solve(open-1, close, str, ans);
-
-            //backtracking
-            str.deleteCharAt(str.length() - 1);
-
+        // Taken
+        if(opening>0){
+            sb.append('(');
+            solve(opening-1, closing, sb, res);
+            sb.deleteCharAt(sb.length()-1); //backtrack
         }
-        // choice 2 --> add ")"
-        if(close > open) {
-            str.append(')');
-
-            solve(open, close-1, str, ans);
-
-            //backtracking
-            str.deleteCharAt(str.length() - 1);
-
+        if(closing > opening){ //Not Taken
+            sb.append(')');
+            solve(opening, closing-1, sb, res);
+            sb.deleteCharAt(sb.length()-1);
         }
+
     }
 }
