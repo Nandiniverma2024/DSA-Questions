@@ -103,6 +103,7 @@ Used in **quiz/study apps**, like:
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -484,6 +485,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
@@ -871,6 +873,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
