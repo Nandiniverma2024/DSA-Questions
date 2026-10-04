@@ -69,6 +69,7 @@ Used in **quiz/study apps**, like:
 | [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -105,6 +106,7 @@ Used in **quiz/study apps**, like:
 | [0225-implement-stack-using-queues](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -450,6 +452,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -584,6 +587,7 @@ Used in **quiz/study apps**, like:
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
@@ -677,6 +681,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
