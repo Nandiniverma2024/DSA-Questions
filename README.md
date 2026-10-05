@@ -72,6 +72,7 @@ Used in **quiz/study apps**, like:
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -107,6 +108,7 @@ Used in **quiz/study apps**, like:
 | [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -682,6 +684,7 @@ Used in **quiz/study apps**, like:
 | [0020-valid-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
