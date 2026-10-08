@@ -2,21 +2,24 @@ class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n=nums1.length;
         int m=nums2.length;
-        int res[]=new int[n];
+        Stack<Integer> st=new Stack<>();
         HashMap<Integer, Integer> map=new HashMap<>();
+        int res[]=new int[n];
 
-        for(int i=0; i<m-1; i++){
-            int nextGreater=-1;
-            for(int j=i+1; j<m; j++){
-                if(nums2[j]>nums2[i]){
-                    nextGreater=nums2[j];
-                    break;
-                }
+        // for next greater => run reverse loop
+        for(int i=m-1; i>=0; i--){
+            // while loop ensures stack will be a monotonic stack on each iteration(suru m sare chote el bad m sare bare el)
+            while(!st.isEmpty() && st.peek()<nums2[i]){
+                st.pop();
             }
-            map.put(nums2[i], nextGreater);
+            if(st.isEmpty()){
+                map.put(nums2[i], -1);
+                st.push(nums2[i]);
+            }else if(!st.isEmpty() && st.peek()>nums2[i]){
+                map.put(nums2[i], st.peek());
+                st.push(nums2[i]);
+            }
         }
-        // put last wali value
-        map.put(nums2[m-1], -1);
 
         for(int i=0; i<n; i++){
             res[i]=map.get(nums1[i]);
@@ -25,5 +28,3 @@ class Solution {
         return res;
     }
 }
-
-// for loop appraoch
