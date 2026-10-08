@@ -110,6 +110,7 @@ Used in **quiz/study apps**, like:
 | [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -164,6 +165,7 @@ Used in **quiz/study apps**, like:
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -912,6 +914,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
