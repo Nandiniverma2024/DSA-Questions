@@ -30,7 +30,7 @@ class Solution {
             }else if(!st.isEmpty() && arr[st.peek()]<=arr[i]){
                 pse[i]=st.peek();
             }
-            st.push(i);
+            st.push(i); //if , else if dono m push ho jayga
         }
         return pse;
     }
@@ -48,7 +48,7 @@ class Solution {
             }else if(!st.isEmpty() && arr[st.peek()]<arr[i]){
                 nse[i]=st.peek();
             }
-            st.push(i);
+            st.push(i); //if , else if dono m push ho jayga
         }
         return nse;
     }
