@@ -1,52 +1,55 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
         int n=arr.length;
+        int mod=1_000_000_007;
         long sum=0;
-        int mod=(int)1e9+7;
-        int nsl[]=getNSL(arr);
-        int nsr[]=getNSR(arr);
+        int pse[]=getPSE(arr);
+        int nse[]=getNSE(arr);
+
+        // long contribution=0;
         for(int i=0; i<n; i++){
-            long left=i-nsl[i];
-            long right=nsr[i]-i;
-            long contributer=(arr[i]*left*right)%mod;
-            sum=(sum+contributer)%mod;
+            int left=i-pse[i];
+            int right=nse[i]-i;
+            long contribution=((long)left*right*arr[i])%mod;
+            sum=(sum+contribution)%mod;
         }
         return (int)sum;
     }
-    private int[] getNSL(int arr[]){
+
+    public int[] getPSE(int arr[]){
+        Stack<Integer> st=new Stack<>();
         int n=arr.length;
-        int[] nsl = new int[n];
-        Stack<Integer> stack=new Stack<>();
+        int pse[]=new int[n];
         for(int i=0; i<n; i++){
-            int curr=arr[i];
-            while(!stack.isEmpty()&&arr[stack.peek()]>curr){
-                stack.pop();
+            while(!st.isEmpty() && arr[st.peek()]>arr[i]){
+                st.pop();
             }
-            if(stack.isEmpty()){
-                nsl[i]=-1;
-            }else{
-                nsl[i]=stack.peek();
+
+            if(st.isEmpty()){
+                pse[i]=-1;
+            }else if(!st.isEmpty() && arr[st.peek()]<=arr[i]){
+                pse[i]=st.peek();
             }
-            stack.push(i);
+            st.push(i);
         }
-        return nsl;
+        return pse;
     }
-    private int[] getNSR(int arr[]){
+    public int[] getNSE(int arr[]){
+        Stack<Integer> st=new Stack<>();
         int n=arr.length;
-        int[] nsr = new int[n];
-        Stack<Integer> stack=new Stack<>();
+        int nse[]=new int[n];
         for(int i=n-1; i>=0; i--){
-            int curr=arr[i];
-            while(!stack.isEmpty()&&arr[stack.peek()]>=curr){
-                stack.pop();
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+                st.pop();
             }
-            if(stack.isEmpty()){
-                nsr[i]=n;
-            }else{
-                nsr[i]=stack.peek();
+
+            if(st.isEmpty()){
+                nse[i]=n;
+            }else if(!st.isEmpty() && arr[st.peek()]<arr[i]){
+                nse[i]=st.peek();
             }
-            stack.push(i);
+            st.push(i);
         }
-        return nsr;
+        return nse;
     }
 }
