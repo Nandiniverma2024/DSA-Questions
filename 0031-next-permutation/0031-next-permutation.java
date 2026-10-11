@@ -14,7 +14,7 @@ class Solution {
             return;
         }
 
-        int rightMost=n-1;
+        int rightMost=-1;
         // 2. find first rightmost el > then pivot (do swap)
         for(int i=n-1; i>=0; i--){
             if(pivot!=-1 && nums[i] > nums[pivot]){
