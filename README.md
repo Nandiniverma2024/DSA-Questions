@@ -144,6 +144,7 @@ Used in **quiz/study apps**, like:
 | [0001-two-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0037-sudoku-solver) |
@@ -552,6 +553,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
