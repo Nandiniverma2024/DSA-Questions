@@ -222,6 +222,7 @@ Used in **quiz/study apps**, like:
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -436,6 +437,7 @@ Used in **quiz/study apps**, like:
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
