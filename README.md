@@ -252,6 +252,7 @@ Used in **quiz/study apps**, like:
 | [3683-earliest-time-to-finish-one-task](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3866-first-unique-even-element) |
@@ -497,6 +498,7 @@ Used in **quiz/study apps**, like:
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -520,6 +522,7 @@ Used in **quiz/study apps**, like:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
