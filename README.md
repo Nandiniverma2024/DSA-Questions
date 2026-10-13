@@ -106,6 +106,7 @@ Used in **quiz/study apps**, like:
 | [0020-valid-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -164,6 +165,7 @@ Used in **quiz/study apps**, like:
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -435,6 +437,7 @@ Used in **quiz/study apps**, like:
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -627,6 +630,7 @@ Used in **quiz/study apps**, like:
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
@@ -948,6 +952,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
