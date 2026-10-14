@@ -262,6 +262,7 @@ Used in **quiz/study apps**, like:
 | [3866-first-unique-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -461,6 +462,7 @@ Used in **quiz/study apps**, like:
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Sliding Window
 |  |
 | ------- |
