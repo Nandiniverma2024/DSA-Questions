@@ -180,6 +180,7 @@ Used in **quiz/study apps**, like:
 | [0216-combination-sum-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
@@ -574,6 +575,7 @@ Used in **quiz/study apps**, like:
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -596,6 +598,7 @@ Used in **quiz/study apps**, like:
 | [0209-minimum-size-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
@@ -677,6 +680,7 @@ Used in **quiz/study apps**, like:
 | [0191-number-of-1-bits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0342-power-of-four) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [1486-xor-operation-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
@@ -972,4 +976,12 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
