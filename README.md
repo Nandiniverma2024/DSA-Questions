@@ -988,6 +988,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
