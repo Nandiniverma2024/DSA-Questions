@@ -5,6 +5,7 @@ class Solution {
             if(i>maxIdx){
                 return false;
             }
+            // i+nums[i] => ki ek idx se kitni max jump li ja sakti h
             maxIdx=Math.max(maxIdx, i+nums[i]);
         }
         return true;
