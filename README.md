@@ -383,6 +383,7 @@ Used in **quiz/study apps**, like:
 | [1952-three-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -602,6 +603,7 @@ Used in **quiz/study apps**, like:
 | [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -1017,4 +1019,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
