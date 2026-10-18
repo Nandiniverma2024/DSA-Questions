@@ -160,6 +160,7 @@ Used in **quiz/study apps**, like:
 | [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
@@ -499,6 +500,7 @@ Used in **quiz/study apps**, like:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
@@ -649,6 +651,7 @@ Used in **quiz/study apps**, like:
 | [0005-longest-palindromic-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
