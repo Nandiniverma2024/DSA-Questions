@@ -11,6 +11,9 @@ class Solution {
             }else{ //overlapping intervals
                 // update last(jiska bi max ho vo from overlapping intervals)
                 ans.get(ans.size()-1)[1]=Math.max(intervals[i][1] ,ans.get(ans.size()-1)[1]);
+
+                // ans.get(ans.size()-1)[1] =>  ans.size()-1 (ye us arraylist ka
+                // last position pr present array dega) [1]=> or ye 1 us index ke array ka last el dega
             }
         }
         return ans.toArray(new int[ans.size()][]);
