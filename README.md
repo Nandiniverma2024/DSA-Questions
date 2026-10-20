@@ -161,6 +161,7 @@ Used in **quiz/study apps**, like:
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -526,6 +527,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -1018,6 +1020,7 @@ Used in **quiz/study apps**, like:
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0455-assign-cookies) |
 ## Binary Indexed Tree
 |  |
