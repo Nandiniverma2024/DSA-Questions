@@ -181,6 +181,7 @@ Used in **quiz/study apps**, like:
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
@@ -417,6 +418,7 @@ Used in **quiz/study apps**, like:
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -532,6 +534,7 @@ Used in **quiz/study apps**, like:
 | [0056-merge-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -565,6 +568,7 @@ Used in **quiz/study apps**, like:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1036,4 +1040,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
