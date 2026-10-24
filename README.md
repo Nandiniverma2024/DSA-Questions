@@ -92,6 +92,7 @@ Used in **quiz/study apps**, like:
 | [2351-first-letter-to-appear-twice](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -392,6 +393,7 @@ Used in **quiz/study apps**, like:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
