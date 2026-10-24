@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 class Solution {
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
+        // consider only non-leaf year
         LocalDate aa=LocalDate.parse("2027-" + arriveAlice);
         LocalDate al=LocalDate.parse("2027-" + leaveAlice);
         LocalDate ba=LocalDate.parse("2027-" + arriveBob);
