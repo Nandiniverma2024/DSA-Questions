@@ -72,6 +72,7 @@ Used in **quiz/study apps**, like:
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0856-score-of-parentheses) |
@@ -198,6 +199,7 @@ Used in **quiz/study apps**, like:
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -315,6 +317,7 @@ Used in **quiz/study apps**, like:
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -457,6 +460,7 @@ Used in **quiz/study apps**, like:
 | [0347-top-k-frequent-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -563,6 +567,7 @@ Used in **quiz/study apps**, like:
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -599,6 +604,7 @@ Used in **quiz/study apps**, like:
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -685,6 +691,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
 | ------- |
@@ -694,6 +701,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
