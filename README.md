@@ -204,6 +204,7 @@ Used in **quiz/study apps**, like:
 | [0724-find-pivot-index](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
@@ -321,6 +322,7 @@ Used in **quiz/study apps**, like:
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -548,6 +550,7 @@ Used in **quiz/study apps**, like:
 | [0435-non-overlapping-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -575,6 +578,7 @@ Used in **quiz/study apps**, like:
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
