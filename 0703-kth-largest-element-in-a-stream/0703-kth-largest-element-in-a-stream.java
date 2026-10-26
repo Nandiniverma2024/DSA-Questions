@@ -1,8 +1,9 @@
 class KthLargest {
     PriorityQueue<Integer> pq;
+    // Here k and nums are the global data members of kthLargest class
     int k;
     int nums[];
-    // constructor
+    // This is constructor
     public KthLargest(int k, int[] nums) {
         pq=new PriorityQueue<>();
         this.k=k; // give kth largest el
