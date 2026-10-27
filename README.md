@@ -571,6 +571,7 @@ Used in **quiz/study apps**, like:
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -613,6 +614,7 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0658-find-k-closest-elements) |
@@ -658,6 +660,7 @@ Used in **quiz/study apps**, like:
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0556-next-greater-element-iii) |
@@ -1033,6 +1036,7 @@ Used in **quiz/study apps**, like:
 | [0173-binary-search-tree-iterator](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -1114,5 +1118,6 @@ Used in **quiz/study apps**, like:
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
