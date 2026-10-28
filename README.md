@@ -290,6 +290,7 @@ Used in **quiz/study apps**, like:
 | [3875-construct-uniform-parity-array-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -497,6 +498,7 @@ Used in **quiz/study apps**, like:
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -736,6 +738,7 @@ Used in **quiz/study apps**, like:
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -788,6 +791,7 @@ Used in **quiz/study apps**, like:
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
