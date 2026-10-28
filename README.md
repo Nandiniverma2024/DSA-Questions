@@ -251,6 +251,7 @@ Used in **quiz/study apps**, like:
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2239-find-closest-number-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -562,6 +563,7 @@ Used in **quiz/study apps**, like:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
@@ -632,6 +634,7 @@ Used in **quiz/study apps**, like:
 | [1046-last-stone-weight](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
