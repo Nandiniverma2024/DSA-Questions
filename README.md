@@ -145,6 +145,7 @@ Used in **quiz/study apps**, like:
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -274,6 +275,7 @@ Used in **quiz/study apps**, like:
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -637,6 +639,7 @@ Used in **quiz/study apps**, like:
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
