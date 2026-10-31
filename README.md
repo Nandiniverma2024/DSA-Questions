@@ -887,6 +887,7 @@ Used in **quiz/study apps**, like:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
@@ -1004,6 +1005,7 @@ Used in **quiz/study apps**, like:
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
@@ -1142,4 +1144,12 @@ Used in **quiz/study apps**, like:
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
