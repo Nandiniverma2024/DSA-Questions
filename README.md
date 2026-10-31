@@ -184,6 +184,7 @@ Used in **quiz/study apps**, like:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -497,6 +498,7 @@ Used in **quiz/study apps**, like:
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
@@ -880,6 +882,7 @@ Used in **quiz/study apps**, like:
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1003,6 +1006,7 @@ Used in **quiz/study apps**, like:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
@@ -1147,6 +1151,7 @@ Used in **quiz/study apps**, like:
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
