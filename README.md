@@ -196,6 +196,7 @@ Used in **quiz/study apps**, like:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
@@ -405,6 +406,7 @@ Used in **quiz/study apps**, like:
 | [0231-power-of-two](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
