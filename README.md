@@ -201,6 +201,7 @@ Used in **quiz/study apps**, like:
 | [0496-next-greater-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0658-find-k-closest-elements) |
@@ -504,6 +505,7 @@ Used in **quiz/study apps**, like:
 | [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0994-rotting-oranges) |
@@ -759,6 +761,7 @@ Used in **quiz/study apps**, like:
 | [0392-is-subsequence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -1016,6 +1019,7 @@ Used in **quiz/study apps**, like:
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
