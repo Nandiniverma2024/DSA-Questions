@@ -177,6 +177,7 @@ Used in **quiz/study apps**, like:
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0136-single-number) |
@@ -505,6 +506,7 @@ Used in **quiz/study apps**, like:
 | [0074-search-a-2d-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
@@ -890,6 +892,7 @@ Used in **quiz/study apps**, like:
 | [0113-path-sum-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
@@ -1017,6 +1020,7 @@ Used in **quiz/study apps**, like:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1166,6 +1170,7 @@ Used in **quiz/study apps**, like:
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
