@@ -147,6 +147,7 @@ Used in **quiz/study apps**, like:
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -285,6 +286,7 @@ Used in **quiz/study apps**, like:
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3452-sum-of-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -439,6 +441,7 @@ Used in **quiz/study apps**, like:
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -656,6 +659,7 @@ Used in **quiz/study apps**, like:
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
