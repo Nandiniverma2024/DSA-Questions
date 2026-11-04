@@ -212,6 +212,7 @@ Used in **quiz/study apps**, like:
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0860-lemonade-change) |
@@ -609,6 +610,7 @@ Used in **quiz/study apps**, like:
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
