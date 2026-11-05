@@ -1,16 +1,17 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        int largest = Integer.MIN_VALUE;
-        int idx = -1;
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[i] > largest) {
-                largest = nums[i];
-                idx = i;
+        int n=nums.length;
+        int largest=Integer.MIN_VALUE;
+        int idx=0;
+        for(int i=0; i<n; i++){
+            if(nums[i]>largest){
+                largest=nums[i];
+                idx=i;
             }
         }
 
-        for(int i = 0; i < nums.length; i++) {
-            if(i != idx && 2*nums[i] > largest) {
+        for(int i=0; i<n ; i++){
+            if(i!=idx && largest < nums[i]*2){
                 return -1;
             }
         }
