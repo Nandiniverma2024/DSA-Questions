@@ -6,7 +6,7 @@ class Solution {
         // Fill clr array with -1
         Arrays.fill(color, -1);
         for(int i=0; i<n; i++){
-            if(color[i]==-1){
+            if(color[i]==-1){ // you just started
                 // dfs(i, 0, color, graph)==false -> ye false tb dega jb adj pr same val hogi
                 if(dfs(i, 0, color, graph)==false){
                     return false;
@@ -17,10 +17,10 @@ class Solution {
     }
 
     public boolean dfs(int node, int clr, int color[], int graph[][]){
-        color[node]=clr;
+        color[node]=clr; //curr node/idx ko color kr do
         // graph[node] => give list present on that idx
         for(int adj : graph[node]){
-            if(color[adj]==-1){
+            if(color[adj]==-1){ //agr clr na h to clr fill kr dia
                 if(dfs(adj, 1-clr, color, graph)==false){
                     return false;
                 } 
