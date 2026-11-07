@@ -1,42 +1,52 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n=graph.length;
-        boolean visited[]=new boolean[n];
-        boolean recPath[]=new boolean[n];
-        int check[]=new int[n];
 
+        // Step1: Build a reverse graph(a graph with reverse edge)
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
+
+        for(int i=0; i<n; i++){ // fill every node with empty arrayList
+            adj.add(new ArrayList<>());
+        }
+
+        // Cal outDegree and cal. reverse edges
+        int outDegree[]=new int[n];
         for(int i=0; i<n; i++){
-            if(!visited[i]){
-                dfs(i, check, visited, recPath, graph);
+            // graph[i].length => ye neighbour list da dega with uski length
+            outDegree[i]=graph[i].length;
+
+            // cal reverse edges
+            for(int j=0; j<graph[i].length; j++){
+                int neighNode=graph[i][j]; // 0th row ka 0th col or neigh
+
+                //node(reverse graph jo ki khud neigh h original graph ke nodes ki)ki khali list m neigh(jo ki actual node h original graph m) dal dia
+                // reverse direction of edges
+                adj.get(neighNode).add(i); //change direction of original node
+            }
+        }
+
+        ArrayDeque<Integer> q=new ArrayDeque<>();
+        for(int i=0; i<n; i++){
+            if(outDegree[i]==0){
+                q.offer(i);
             }
         }
 
         ArrayList<Integer> res=new ArrayList<>();
-        for(int i=0; i<check.length; i++){
-            if(check[i]==1){
-                res.add(i);
+        while(!q.isEmpty()){
+            int curr=q.poll();
+            res.add(curr);
+
+            for(int neigh:adj.get(curr)){
+                outDegree[neigh]--;
+                if(outDegree[neigh]==0){
+                    q.offer(neigh);
+                }
             }
         }
+
+        Collections.sort(res);
 
         return res;
-    }
-    public boolean dfs(int src, int check[], boolean visited[], boolean recPath[], int[][] graph){
-        visited[src]=true;
-        recPath[src]=true;
-        int des[]=graph[src];
-
-        for(int neigh:des){
-            if(!visited[neigh]){
-                if(dfs(neigh, check, visited, recPath, graph)){
-                    return true;
-                }
-            }else if(recPath[neigh]){
-                return true;
-            }
-        }
-
-        recPath[src]=false;
-        check[src]=1;
-        return false;
     }
 }
