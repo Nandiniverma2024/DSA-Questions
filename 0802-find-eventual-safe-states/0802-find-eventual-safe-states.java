@@ -25,6 +25,7 @@ class Solution {
             }
         }
 
+        // Kahn's algorithm
         ArrayDeque<Integer> q=new ArrayDeque<>();
         for(int i=0; i<n; i++){
             if(outDegree[i]==0){
