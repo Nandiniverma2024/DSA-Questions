@@ -55,17 +55,17 @@ class Solution {
     // 5. Loop through all tasks
         for(int i=0; i<m; i++){
             time=Math.max(time, i);
+        
+            // Release servers whose freeTime <= current time
+            while(!busyq.isEmpty() && busyq.peek().freeTime <= time){
+                busyServer bs=busyq.poll();
+                // int ft=bs.freeTime;
+                int wt=bs.weight;
+                int idx=bs.idx;
 
-        // Release servers whose freeTime <= current time
-        while(!busyq.isEmpty() && busyq.peek().freeTime <= time){
-            busyServer bs=busyq.poll();
-            // int ft=bs.freeTime;
-            int wt=bs.weight;
-            int idx=bs.idx;
-
-            freeq.offer(new freeServer(wt, idx));
-        }
-        // If free PQ is empty:
+                freeq.offer(new freeServer(wt, idx));
+            }
+            // If free PQ is empty:
             if(freeq.isEmpty()){
                 // Move time to earliest freeTime
                 time=busyq.peek().freeTime;
@@ -82,18 +82,18 @@ class Solution {
             }
 
 
-        // Select best free server
-        
+            // Select best free server
             freeServer fs=freeq.poll();
             int wt=fs.weight;
             int idx=fs.idx;
 
-        // Store its index in ans
+            // Store its index in ans
             ans[i]=idx;
     
-        // Add server to busy PQ
+            // Add server to busy PQ
             busyq.offer(new busyServer((int)(time+tasks[i]), wt, idx));
         }
+
         return ans;
     }
 }
