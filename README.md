@@ -305,6 +305,7 @@ Used in **quiz/study apps**, like:
 | [3731-find-missing-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3833-count-dominant-indices](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3833-count-dominant-indices) |
 | [3866-first-unique-even-element](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -544,6 +545,7 @@ Used in **quiz/study apps**, like:
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3833-count-dominant-indices](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Sliding Window
 |  |
