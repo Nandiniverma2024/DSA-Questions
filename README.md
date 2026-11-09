@@ -55,6 +55,7 @@ Used in **quiz/study apps**, like:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
@@ -139,6 +140,7 @@ Used in **quiz/study apps**, like:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
@@ -412,6 +414,7 @@ Used in **quiz/study apps**, like:
 | [0029-divide-two-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0223-rectangle-area) |
@@ -820,6 +823,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0136-single-number) |
