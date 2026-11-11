@@ -193,6 +193,7 @@ Used in **quiz/study apps**, like:
 | [0209-minimum-size-subarray-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0216-combination-sum-iii) |
+| [0228-summary-ranges](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
