@@ -58,6 +58,7 @@ Used in **quiz/study apps**, like:
 | [0067-add-binary](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0205-isomorphic-strings) |
@@ -330,6 +331,7 @@ Used in **quiz/study apps**, like:
 | [0076-minimum-window-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0146-lru-cache) |
@@ -1048,6 +1050,7 @@ Used in **quiz/study apps**, like:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
@@ -1243,4 +1246,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
