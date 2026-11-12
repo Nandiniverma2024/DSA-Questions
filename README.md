@@ -292,6 +292,7 @@ Used in **quiz/study apps**, like:
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
