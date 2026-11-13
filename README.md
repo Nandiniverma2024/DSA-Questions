@@ -236,6 +236,7 @@ Used in **quiz/study apps**, like:
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -530,6 +531,7 @@ Used in **quiz/study apps**, like:
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1069,6 +1071,7 @@ Used in **quiz/study apps**, like:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
