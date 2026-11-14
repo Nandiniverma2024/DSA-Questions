@@ -256,6 +256,7 @@ Used in **quiz/study apps**, like:
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
@@ -543,6 +544,7 @@ Used in **quiz/study apps**, like:
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -682,6 +684,7 @@ Used in **quiz/study apps**, like:
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -767,6 +770,7 @@ Used in **quiz/study apps**, like:
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -955,6 +959,7 @@ Used in **quiz/study apps**, like:
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Algorithm X
@@ -1085,6 +1090,7 @@ Used in **quiz/study apps**, like:
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -1227,6 +1233,7 @@ Used in **quiz/study apps**, like:
 | [0785-is-graph-bipartite](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1270,4 +1277,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
