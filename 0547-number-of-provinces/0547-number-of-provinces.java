@@ -1,25 +1,37 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n=isConnected.length;
-        boolean visited[]=new boolean[n];
-        int ans=0;
-        // Ans number of prvences ko track krne ke lia use ho rha h
+        // Build Graph
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
         for(int i=0; i<n; i++){
-            if(!visited[i]){
-               dfs(i, isConnected, visited); 
-               ans++;
+            adj.add(new ArrayList<>());
+        }
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                if(isConnected[i][j]==1 && i!=j){ // 0 la 0 se conenction show ni krna
+                    adj.get(i).add(j);
+                }
             }
         }
-        return ans;
-    } 
 
-    // dfs m current row, apne se connected sare neghbours ki row pr jake unhe visit kr rha h, or unka ek provences bna rha h
-    public void dfs(int i, int[][] isConnected, boolean visited[]){
-        int n=isConnected.length;
-        visited[i]=true;
-        for(int j=0; j<n; j++){
-            if(isConnected[i][j]==1 && !visited[j]){
-                dfs(j, isConnected, visited);
+        // Cal ans
+        int ans=0;
+        boolean visited[]=new boolean[n];
+        for(int i=0; i<n; i++){
+            if(!visited[i]){
+                ans++;
+                dfs(i, visited, adj);
+            }
+        }
+
+        return ans;
+    }
+    public void dfs(int src, boolean visited[], ArrayList<ArrayList<Integer>> adj){
+        visited[src]=true;
+        for(int neigh:adj.get(src)){
+            if(!visited[neigh]){
+                dfs(neigh, visited, adj);
             }
         }
     }
