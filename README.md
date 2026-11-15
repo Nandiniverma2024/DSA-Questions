@@ -254,6 +254,7 @@ Used in **quiz/study apps**, like:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -414,6 +415,7 @@ Used in **quiz/study apps**, like:
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -446,6 +448,7 @@ Used in **quiz/study apps**, like:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1362-closest-divisors](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1362-closest-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1922-count-good-numbers) |
@@ -809,6 +812,7 @@ Used in **quiz/study apps**, like:
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
