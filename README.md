@@ -94,6 +94,7 @@ Used in **quiz/study apps**, like:
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -150,6 +151,7 @@ Used in **quiz/study apps**, like:
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
