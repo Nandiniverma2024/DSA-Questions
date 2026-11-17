@@ -817,6 +817,7 @@ Used in **quiz/study apps**, like:
 | [0877-stone-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
@@ -1251,6 +1252,7 @@ Used in **quiz/study apps**, like:
 | [0785-is-graph-bipartite](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -1265,6 +1267,7 @@ Used in **quiz/study apps**, like:
 | [0207-course-schedule](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -1285,8 +1288,10 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
