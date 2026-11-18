@@ -103,6 +103,7 @@ Used in **quiz/study apps**, like:
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
