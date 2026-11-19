@@ -293,6 +293,7 @@ Used in **quiz/study apps**, like:
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -621,6 +622,7 @@ Used in **quiz/study apps**, like:
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -658,6 +660,7 @@ Used in **quiz/study apps**, like:
 | [2094-finding-3-digit-even-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2418-sort-the-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2974-minimum-number-game) |
