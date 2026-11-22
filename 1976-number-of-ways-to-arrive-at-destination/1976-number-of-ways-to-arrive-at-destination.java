@@ -1,17 +1,16 @@
 class Solution {
     class Pair{
-        long dist;
+        long dis;
         int node;
-        Pair(long dist, int node){
-            this.dist=dist;
+        Pair(long dis, int node){
+            this.dis=dis;
             this.node=node;
         }
     }
     public int countPaths(int n, int[][] roads) {
         ArrayList<ArrayList<int[]>> adj=new ArrayList<>();
-
         for(int i=0; i<n; i++){
-            adj.add(new ArrayList<>()); //add empty AL to each node
+            adj.add(new ArrayList<>());
         }
         // Step1: Build Graph
         for(int i=0; i<roads.length; i++){
@@ -23,7 +22,7 @@ class Solution {
             adj.get(v).add(new int[]{u, wt});
         }
 
-        // Step2: build dis array and ways
+        // Step2: build dis and ways array
         long dis[]=new long[n];
         int ways[]=new int[n];
 
@@ -31,28 +30,27 @@ class Solution {
 
         dis[0]=0;
         ways[0]=1;
-        int mod=1_000_000_007;
 
-        // Step3: use min heap to find num of shortest dis
-        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)-> Long.compare(a.dist, b.dist)); 
+        int mod=1_000_000_007;
+        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b) -> Long.compare(a.dis, b.dis));
+
         pq.offer(new Pair(0,0));
 
         while(!pq.isEmpty()){
             Pair pair=pq.poll();
 
-            long d=pair.dist;
+            long d=pair.dis;
             int node=pair.node;
 
-            for(int num[] : adj.get(node)){
+            for(int num[]:adj.get(node)){
                 int neigh=num[0];
                 int wt=num[1];
-                
-                // if (dis<less), update neigh ways to the old ways
-                if(d+wt < dis[neigh]){
+
+                if(d+wt<dis[neigh]){
                     dis[neigh]=d+wt;
                     pq.offer(new Pair(dis[neigh], neigh));
                     ways[neigh]=ways[node];
-                }else if(d+wt == dis[neigh]){ //if neigh and node have same dis
+                }else if(d+wt == dis[neigh]){
                     ways[neigh]=(ways[neigh]+ways[node])%mod;
                 }
             }
