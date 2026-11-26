@@ -268,6 +268,7 @@ Used in **quiz/study apps**, like:
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1695-maximum-erasure-value) |
+| [1765-map-of-highest-peak](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1765-map-of-highest-peak) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -558,6 +559,7 @@ Used in **quiz/study apps**, like:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1765-map-of-highest-peak) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -1117,6 +1119,7 @@ Used in **quiz/study apps**, like:
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
