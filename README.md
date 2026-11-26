@@ -228,6 +228,7 @@ Used in **quiz/study apps**, like:
 | [0735-asteroid-collision](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0860-lemonade-change) |
@@ -547,6 +548,7 @@ Used in **quiz/study apps**, like:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
@@ -694,6 +696,7 @@ Used in **quiz/study apps**, like:
 | [0692-top-k-frequent-words](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1046-last-stone-weight) |
@@ -776,6 +779,7 @@ Used in **quiz/study apps**, like:
 | [0633-sum-of-square-numbers](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -970,6 +974,7 @@ Used in **quiz/study apps**, like:
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -1101,6 +1106,7 @@ Used in **quiz/study apps**, like:
 | [0662-maximum-width-of-binary-tree](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -1250,6 +1256,7 @@ Used in **quiz/study apps**, like:
 | [0130-surrounded-regions](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -1308,6 +1315,7 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1319,4 +1327,8 @@ Used in **quiz/study apps**, like:
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Nandiniverma2024/DSA-Questions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
