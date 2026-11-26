@@ -1,52 +1,61 @@
-class Solution {//comment
+class Solution {
     class Pair{
-        int i;
-        int j;
-        Pair(int i, int j) {
-            this.i = i;
-            this.j = j;
+        int row;
+        int col;
+        Pair(int row, int col){
+            this.row=row;
+            this.col=col;
         }
     }
     public int[][] updateMatrix(int[][] mat) {
-        int n = mat.length;
-        int m = mat[0].length;
+        int n=mat.length;
+        int m=mat[0].length;
+        int res[][]=new int[n][m];
 
-        int res[][] = new int[n][m];
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                res[i][j] = -1;
-            }
+        // Fill res array with -1
+        for(int i=0; i<n; i++){
+            Arrays.fill(res[i], -1);
         }
 
-        Queue<Pair> q = new ArrayDeque<>();
-
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                if(mat[i][j] == 0) {
-                    q.offer(new Pair(i, j));
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(mat[i][j]==0){
                     res[i][j]=0;
                 }
             }
         }
 
-        while(!q.isEmpty()) {
-            Pair pair = q.poll();
-            int row = pair.i;
-            int col = pair.j;
+        Queue<Pair> q=new ArrayDeque<>();
 
-            int[] dr = {-1, 1, 0, 0};
-            int[] dc = {0, 0, -1, 1};
-
-            for(int k = 0; k < 4; k++) {
-                int nr = row + dr[k];
-                int nc = col + dc[k];
-
-                 if(nr >= 0 && nr < n && nc >=0 && nc < m && res[nr][nc] == -1) {
-                    q.offer(new Pair(nr, nc));
-                    res[nr][nc] = res[row][col] + 1;
-                 }
+        // Multi source bfs
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(mat[i][j]==0){
+                    q.offer(new Pair(i, j));
+                }
             }
         }
+
+        int dr[]={-1, 1, 0, 0};
+        int dc[]={0, 0, -1, 1};
+
+        while(!q.isEmpty()){
+            Pair pair=q.poll();
+            int r=pair.row;
+            int c=pair.col;
+
+            for(int i=0; i<4; i++){
+                int nr=r+dr[i];
+                int nc=c+dc[i];
+
+                if(nr>=0 && nr<n && nc>=0 && nc<m && res[nr][nc]==-1){
+                    res[nr][nc]=res[r][c]+1;
+
+                    q.offer(new Pair(nr, nc));
+                }
+            }
+        }
+
         return res;
     }
 }
